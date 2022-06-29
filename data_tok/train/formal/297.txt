@@ -1,0 +1,1 @@
+xxbos opensolaris for xxmaj system z is a discontinued port of the opensolaris operating system to the xxup ibm xxmaj system z line of mainframe computers .

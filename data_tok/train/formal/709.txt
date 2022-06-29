@@ -1,0 +1,1 @@
+xxbos xxmaj building in the tableau is down by suit and spaces which result in moving a card are filled from the wastepile or , if there is none , the stock .

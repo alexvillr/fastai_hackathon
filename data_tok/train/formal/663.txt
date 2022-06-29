@@ -1,0 +1,1 @@
+xxbos a preview mode showed the formatted layout but xxmaj protext did not display the fonts on screen .
