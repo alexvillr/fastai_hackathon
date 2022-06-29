@@ -40,3 +40,22 @@
 [IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
 [IPKernelApp] WARNING | No such comm: 72106f9d-3425-4aa8-a5fb-c31e412a3208
 [I 14:06:34.457 NotebookApp] Saving file at /RNN.ipynb
+[I 14:37:01.436 NotebookApp] Saving file at /RNN.ipynb
+[I 14:39:01.273 NotebookApp] Saving file at /RNN.ipynb
+[I 14:41:01.282 NotebookApp] Saving file at /RNN.ipynb
+[I 14:43:01.348 NotebookApp] Saving file at /RNN.ipynb
+[I 14:45:01.262 NotebookApp] Saving file at /RNN.ipynb
+[I 14:47:01.314 NotebookApp] Saving file at /RNN.ipynb
+[I 15:13:03.685 NotebookApp] Saving file at /RNN.ipynb
+[I 15:15:03.550 NotebookApp] Saving file at /RNN.ipynb
+[I 15:27:03.575 NotebookApp] Saving file at /RNN.ipynb
+[I 15:29:04.211 NotebookApp] Saving file at /RNN.ipynb
+[I 15:31:03.637 NotebookApp] Saving file at /RNN.ipynb
+[I 15:33:03.622 NotebookApp] Saving file at /RNN.ipynb
+[I 15:35:03.592 NotebookApp] Saving file at /RNN.ipynb
+[I 15:39:03.574 NotebookApp] Saving file at /RNN.ipynb
+[I 15:41:03.656 NotebookApp] Saving file at /RNN.ipynb
+[I 15:43:03.593 NotebookApp] Saving file at /RNN.ipynb
+[I 15:45:03.672 NotebookApp] Saving file at /RNN.ipynb
+[I 15:50:00.514 NotebookApp] Saving file at /RNN.ipynb
+[I 15:54:28.951 NotebookApp] Saving file at /RNN.ipynb
