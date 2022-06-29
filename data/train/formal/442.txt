@@ -1,0 +1,1 @@
+CipherSaber is a simple symmetric encryption protocol based on the RC4 stream cipher.

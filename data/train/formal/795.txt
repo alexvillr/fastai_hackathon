@@ -1,0 +1,1 @@
+Microbridge requires an Arduino USB Host Shield to properly function.

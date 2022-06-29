@@ -1,0 +1,1 @@
+As such, gateleg tables are a subset of the type known as a dropleaf.

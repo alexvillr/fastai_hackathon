@@ -1,0 +1,1 @@
+Those attributes with a higher impact on CQAs should be prioritized and held in a stricter state of control.

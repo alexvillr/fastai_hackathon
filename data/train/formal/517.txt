@@ -1,0 +1,1 @@
+This interaction controls expression of downstream aminoacyl-tRNA synthetase genes, amino acid biosynthesis, and uptake-related genes in a negative feedback loop.
