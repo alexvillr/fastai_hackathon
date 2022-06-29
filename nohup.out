@@ -1,0 +1,42 @@
+[I 12:29:17.223 NotebookApp] Serving notebooks from local directory: /Users/sivakalyan/Programming/Python/fastai_hackathon
+[I 12:29:17.223 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 12:29:17.223 NotebookApp] http://localhost:8888/?token=273a97846bb1e71988d5c5e77a9f45eb449650841c1c4746
+[I 12:29:17.223 NotebookApp]  or http://127.0.0.1:8888/?token=273a97846bb1e71988d5c5e77a9f45eb449650841c1c4746
+[I 12:29:17.223 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:29:17.240 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/sivakalyan/Library/Jupyter/runtime/nbserver-35668-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=273a97846bb1e71988d5c5e77a9f45eb449650841c1c4746
+     or http://127.0.0.1:8888/?token=273a97846bb1e71988d5c5e77a9f45eb449650841c1c4746
+[W 12:29:21.968 NotebookApp] 404 GET /apple-touch-icon-precomposed.png (::1) 5.960000ms referer=None
+[W 12:29:21.979 NotebookApp] 404 GET /apple-touch-icon.png (::1) 1.530000ms referer=None
+[I 12:29:33.595 NotebookApp] Creating new notebook in 
+[I 12:29:34.557 NotebookApp] Kernel started: f1cba047-cc69-48a8-971d-7d5ca5c4152e, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 0fe58d3b-e8a4-4b84-9d80-1f979e1dde3a
+[I 12:31:34.504 NotebookApp] Saving file at /Transformers.ipynb
+[I 12:33:34.501 NotebookApp] Saving file at /Transformers.ipynb
+[I 12:35:34.488 NotebookApp] Saving file at /Transformers.ipynb
+[I 12:52:07.650 NotebookApp] Saving file at /Transformers.ipynb
+[I 12:56:12.301 NotebookApp] Saving file at /Transformers.ipynb
+[I 12:58:12.268 NotebookApp] Saving file at /Transformers.ipynb
+[I 13:00:12.425 NotebookApp] Saving file at /Transformers.ipynb
+[I 13:02:12.323 NotebookApp] Saving file at /Transformers.ipynb
+[I 13:04:12.290 NotebookApp] Saving file at /Transformers.ipynb
+[I 13:10:12.305 NotebookApp] Saving file at /Transformers.ipynb
+[I 13:12:12.324 NotebookApp] Saving file at /Transformers.ipynb
+[I 13:14:12.336 NotebookApp] Saving file at /Transformers.ipynb
+[I 13:16:12.246 NotebookApp] Saving file at /Transformers.ipynb
+[I 13:18:12.265 NotebookApp] Saving file at /Transformers.ipynb
+[I 13:22:12.254 NotebookApp] Saving file at /Transformers.ipynb
+[I 13:24:12.246 NotebookApp] Saving file at /Transformers.ipynb
+[I 13:28:56.324 NotebookApp] Saving file at /Transformers.ipynb
+[I 14:04:25.105 NotebookApp] Starting buffering for f1cba047-cc69-48a8-971d-7d5ca5c4152e:51548b7af3fa42059a41edd49d200692
+[I 14:04:25.298 NotebookApp] Kernel shutdown: f1cba047-cc69-48a8-971d-7d5ca5c4152e
+[I 14:04:32.994 NotebookApp] Creating new notebook in 
+[I 14:04:34.235 NotebookApp] Kernel started: f00d7235-bc25-4329-8386-b3fb9d786385, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 72106f9d-3425-4aa8-a5fb-c31e412a3208
+[I 14:06:34.457 NotebookApp] Saving file at /RNN.ipynb
