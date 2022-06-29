@@ -1,29 +1,13 @@
-# informal text
-# https://www.reddit.com/r/funny/comments/vmvbil/beats_most_fashion_walks/
-#
-# formal text
-# https://en.wikipedia.org/wiki/Operation_Scorched_Earth
-import re
+import os
 
+print("type the name of the file you wish to split by new lines into multiple files")
+fileName = input()
 
-informal = open("informal.txt").read()
-formal = open("formal.txt").read()
-
-split_informal = re.split(".\n", informal)
-informal_dataset = []
-
-for sentence in split_informal:
-    if 10<= len(sentence.split()):
-        informal_dataset.append(sentence)
-
-split_formal = re.split(".\n", formal)
-formal_dataset = []
-
-for sentence in split_formal:
-    if 10 <= len(sentence.split()):
-        formal_dataset.append(sentence)
-
-print("Formal Data")
-print(formal_dataset)
-print("Informal Data")
-print(informal_dataset)
+file = open(fileName)
+i = 0
+os.mkdir(fileName[:-4])
+while i <= 200:
+    directory = fileName[:-4] + "/" + str(i) + ".txt"
+    current_file = open(directory, 'w')
+    current_file.write(file.readline())
+    i += 1
