@@ -1,0 +1,1 @@
+Blue is a project under development by IBM that focuses on advancing the artificial intelligence field by designing and programing computers to emulate human mental functions.

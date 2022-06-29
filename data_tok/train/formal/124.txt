@@ -1,0 +1,1 @@
+xxbos xxmaj to achieve a good performance , robots need to use some form of localization .

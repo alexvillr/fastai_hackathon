@@ -1,0 +1,1 @@
+xxbos xxmaj they can be processed by a preprocessor to specify compiler behavior , or function as a form of in - band parameterization .

@@ -1,0 +1,1 @@
+xxbos xxmaj microbridge requires an xxmaj arduino xxup usb xxmaj host xxmaj shield to properly function .

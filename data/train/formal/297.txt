@@ -1,0 +1,1 @@
+OpenSolaris for System z is a discontinued port of the OpenSolaris operating system to the IBM System z line of mainframe computers.

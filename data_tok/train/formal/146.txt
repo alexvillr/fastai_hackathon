@@ -1,0 +1,1 @@
+xxbos xxmaj vertices of the bitruncation 5 - simplex are located on the triangular faces of the 5 - simplex .

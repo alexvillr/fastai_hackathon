@@ -1,0 +1,1 @@
+xxbos xxmaj only those rare packets that require complex processing are forwarded to the xxup os networking stack , which performs the necessary management , signaling and control functions .

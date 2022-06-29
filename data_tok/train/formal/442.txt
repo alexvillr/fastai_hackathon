@@ -1,0 +1,1 @@
+xxbos ciphersaber is a simple symmetric encryption protocol based on the xxup rc4 stream cipher .
