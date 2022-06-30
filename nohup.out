@@ -497,3 +497,18 @@
 [I 12:25:47.285 NotebookApp] Saving file at /gradio_front.ipynb
 [I 12:27:47.223 NotebookApp] Saving file at /gradio_front.ipynb
 [I 12:29:47.212 NotebookApp] Saving file at /gradio_front.ipynb
+[I 13:01:22.355 NotebookApp] Starting buffering for 348c6a34-435d-4779-9d1d-c923d9e979d9:8858193004e44e278f34d0724348658d
+[W 13:01:22.817 NotebookApp] 400 GET /api/contents/gradio_front.ipynb?type=notebook&_=1656558082663 (::1): Unreadable Notebook: /Users/sivakalyan/Programming/Python/fastai_hackathon/gradio_front.ipynb NotJSONError('Notebook does not appear to be JSON: \'{\\n "cells": [\\n  {\\n   "cell_type": "c...')
+[W 13:01:22.817 NotebookApp] Unreadable Notebook: /Users/sivakalyan/Programming/Python/fastai_hackathon/gradio_front.ipynb NotJSONError('Notebook does not appear to be JSON: \'{\\n "cells": [\\n  {\\n   "cell_type": "c...')
+[W 13:01:22.817 NotebookApp] 400 GET /api/contents/gradio_front.ipynb?type=notebook&_=1656558082663 (::1) 7.470000ms referer=http://localhost:8888/notebooks/gradio_front.ipynb
+[I 13:01:33.774 NotebookApp] Starting buffering for f00d7235-bc25-4329-8386-b3fb9d786385:211bba5391884dc5bcabf02bd4b0953c
+[I 13:01:33.812 NotebookApp] Kernel shutdown: f00d7235-bc25-4329-8386-b3fb9d786385
+[W 13:01:42.079 NotebookApp] 400 GET /api/contents/gradio_front.ipynb?type=notebook&_=1656558101924 (::1): Unreadable Notebook: /Users/sivakalyan/Programming/Python/fastai_hackathon/gradio_front.ipynb NotJSONError('Notebook does not appear to be JSON: \'{\\n "cells": [\\n  {\\n   "cell_type": "c...')
+[W 13:01:42.079 NotebookApp] Unreadable Notebook: /Users/sivakalyan/Programming/Python/fastai_hackathon/gradio_front.ipynb NotJSONError('Notebook does not appear to be JSON: \'{\\n "cells": [\\n  {\\n   "cell_type": "c...')
+[W 13:01:42.080 NotebookApp] 400 GET /api/contents/gradio_front.ipynb?type=notebook&_=1656558101924 (::1) 2.660000ms referer=http://localhost:8888/notebooks/gradio_front.ipynb
+[W 13:04:45.449 NotebookApp] Notebook gradio_front.ipynb is not trusted
+[I 13:06:39.269 NotebookApp] Starting buffering for 348c6a34-435d-4779-9d1d-c923d9e979d9:b650494202be4b73bd62b7273afa84ee
+[I 13:06:42.011 NotebookApp] Kernel restarted: 348c6a34-435d-4779-9d1d-c923d9e979d9
+[I 13:06:42.074 NotebookApp] Restoring connection for 348c6a34-435d-4779-9d1d-c923d9e979d9:b650494202be4b73bd62b7273afa84ee
+[I 13:06:42.075 NotebookApp] Replaying 2 buffered messages
+[I 13:06:45.682 NotebookApp] Saving file at /gradio_front.ipynb
