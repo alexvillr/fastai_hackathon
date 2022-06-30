@@ -454,3 +454,30 @@
 [I 10:11:35.309 NotebookApp] Saving file at /RNN.ipynb
 [I 10:13:35.309 NotebookApp] Saving file at /RNN.ipynb
 [I 10:15:35.316 NotebookApp] Saving file at /RNN.ipynb
+[I 10:17:37.813 NotebookApp] Saving file at /RNN.ipynb
+[W 10:18:07.190 NotebookApp] Notebook gradio_front.ipynb is not trusted
+[I 10:18:07.389 NotebookApp] Kernel started: 348c6a34-435d-4779-9d1d-c923d9e979d9, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: c350eb9d-5fbd-4127-a75a-7749c337e890
+[I 10:20:07.376 NotebookApp] Saving file at /gradio_front.ipynb
+[I 10:24:07.500 NotebookApp] Saving file at /gradio_front.ipynb
+[I 10:26:07.386 NotebookApp] Saving file at /gradio_front.ipynb
+[I 10:28:07.392 NotebookApp] Saving file at /gradio_front.ipynb
+[I 10:30:07.532 NotebookApp] Saving file at /gradio_front.ipynb
+[I 10:32:07.380 NotebookApp] Saving file at /gradio_front.ipynb
+[I 10:34:07.409 NotebookApp] Saving file at /gradio_front.ipynb
+[I 10:36:07.389 NotebookApp] Saving file at /gradio_front.ipynb
+[I 10:38:07.435 NotebookApp] Saving file at /gradio_front.ipynb
+[I 10:40:07.364 NotebookApp] Saving file at /gradio_front.ipynb
+[I 10:42:07.406 NotebookApp] Saving file at /gradio_front.ipynb
+[I 10:44:07.415 NotebookApp] Saving file at /gradio_front.ipynb
+[I 10:46:07.477 NotebookApp] Saving file at /gradio_front.ipynb
+[I 10:50:07.425 NotebookApp] Saving file at /gradio_front.ipynb
+[I 10:52:07.423 NotebookApp] Saving file at /gradio_front.ipynb
+[I 10:54:07.474 NotebookApp] Saving file at /gradio_front.ipynb
+[I 10:58:07.363 NotebookApp] Saving file at /gradio_front.ipynb
+[I 11:00:07.366 NotebookApp] Saving file at /gradio_front.ipynb
+[I 11:02:07.388 NotebookApp] Saving file at /gradio_front.ipynb
+[I 11:04:07.359 NotebookApp] Saving file at /gradio_front.ipynb
+[I 11:06:07.371 NotebookApp] Saving file at /gradio_front.ipynb
+[I 11:07:52.998 NotebookApp] Saving file at /gradio_front.ipynb
