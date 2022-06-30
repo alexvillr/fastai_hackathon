@@ -1,0 +1,1 @@
+Unmatched variables are restored when backtracking, but they are not taken into account when deciding whether two states are equal (see (Holzmann, 2003) for details).

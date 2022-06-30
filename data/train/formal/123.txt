@@ -1,1 +1,1 @@
-Frankenia laevis, commonly sea heath, is a low shrub in the family Frankeniaceae.
+The only way to completely evade our CPR-based detection is to send all the attack packets using the TCP congestion control mechanism, in other words, to make an LDDoS flow behave like a normal TCP flow.

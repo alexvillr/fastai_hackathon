@@ -1,1 +1,1 @@
-In their debut year, in March 2016, they already topped the Flemish Top 10, which is presented weekly by the local radio channel Radio 2.
+Our model includes velocity differences between different species by including all of the relevant collisions between them through the inclusion of diffusive fluxes in the continuity equations.

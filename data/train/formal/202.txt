@@ -1,1 +1,1 @@
-In 2013-14 they finished sixth out of 11 teams.
+(See [9, Appendix B.7.6].) These are the morphisms of varieties f:Y→X which can be factored as p∘i, with i a regular closed embedding, and p a smooth morphism.

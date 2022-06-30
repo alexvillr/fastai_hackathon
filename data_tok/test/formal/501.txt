@@ -1,0 +1,1 @@
+xxbos xxmaj similarly , in order to avoid greedy localised node - only behaviour that leads to decreased intermediary resources and lower network - wide performance , we aim to provide a mechanism that carefully balances opportunistic usage of intermediary resources and cooperative behaviour that leads to improved end to end delivery rates .

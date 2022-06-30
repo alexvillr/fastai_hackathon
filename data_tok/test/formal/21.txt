@@ -1,0 +1,1 @@
+xxbos xxmaj the notation max(sv ) and max(sw ) will imply maxima taken over space x.

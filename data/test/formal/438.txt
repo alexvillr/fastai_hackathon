@@ -1,0 +1,1 @@
+Since Z[X] is obviously a subring of Int(Mnp(Z),Mn(Z)), we have:Int(Mnp(Z),Mn(Z))(M)={f(M)|f∈Int(Mnp(Z),Mn(Z))}=Z[M].

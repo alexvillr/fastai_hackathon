@@ -1,1 +1,1 @@
-Interlace and scroll decoration are terms used for most other types of similar patterns.
+Examples and remarks on the condition (3.3) and the Levi conditions (3.4)

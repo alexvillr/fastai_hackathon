@@ -1,1 +1,1 @@
-Tom Hewitt (born 1 October 1985) is an Australian rugby league player in the NRL competition, who plays for the Brisbane Broncos.
+Each delete-min, however, takes O(n) work, since one must look at the entire array to find the minimum element.

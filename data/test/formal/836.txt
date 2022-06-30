@@ -1,0 +1,1 @@
+We say that f is the least element (minimum) of G iff f≤g for all g∈G, and that f is a minimal element of G iff there is no g∈G for which f>g, with the greatest element (maximum) and maximal elements of G defined analogously.

@@ -1,1 +1,1 @@
-Animals include liberty horses (performing dressage without rider and on signals alone), monkeys, Welsh mountain liberty ponies, lions pigs goats and dogs.
+Roeber et al. (2010) solved Nwogu's (1993) one-dimensional equations by a hybrid scheme including a shock capturing method based on a Godunov-type procedure; they introduced an eddy viscosity term into the governing equation in order to control the instabilities produced by the sharp gradients of transport quantities.

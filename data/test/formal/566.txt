@@ -1,0 +1,1 @@
+If nothing works, the failed chip is isolated by disabling its clocks.

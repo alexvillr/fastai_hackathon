@@ -1,0 +1,1 @@
+xxbos xxmaj in the second iteration the value , xxmaj ki-1 / 2 , is updated based on the hydraulic head results obtained from the first iteration .

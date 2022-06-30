@@ -1,0 +1,1 @@
+The significance of differences among multiple groups was determined with a one-way analysis of variance (ANOVA) followed by a Tukey-Kramer post hoc test (GraphPad Prism version 5.04).

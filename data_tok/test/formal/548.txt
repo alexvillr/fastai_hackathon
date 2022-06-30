@@ -1,0 +1,1 @@
+xxbos xxmaj in this paper we solve the turbine configuration problem using sequential quadratic programming ( sqp ) , which is considered to be one of the most efficient optimisation algorithms [ 4 ] .

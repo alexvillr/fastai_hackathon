@@ -1,1 +1,1 @@
-Version 4.0, Platform included a developer edition with no restrictions or time limits.
+DE cells were cultured in RPMI+B27 medium with CHIR99021 (6 μM) for 4 days to generate posterior endoderm.

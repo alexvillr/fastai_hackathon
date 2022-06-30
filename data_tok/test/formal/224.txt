@@ -1,0 +1,1 @@
+xxbos xxmaj define the subspace m⊂mer(v ) consisting of functions φ∈mer(v ) holomorphic out of the union of hyperplanes ⋃β∈rˆ{x∈v|β(x)∈2πiz } .

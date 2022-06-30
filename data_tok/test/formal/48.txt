@@ -1,0 +1,1 @@
+xxbos xxmaj the model of xxmaj garrett and xxmaj cummings [ 1 ] has been extended to open channel flow with a drop in surface level by xxmaj whelan et al . [ 30 ] , but this modification is omitted in the current work as the two - dimensional simulation model in xxmaj section 2 does not model changes in surface level .

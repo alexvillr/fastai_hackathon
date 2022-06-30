@@ -1,1 +1,1 @@
-Following his conviction of first degree murder in the death of Cheryl Keeton, Brad Cunningham was incarcerated at the Oregon State Penitentiary on January 9, 1995 where he is serving a life sentence.
+This causes what might be termed 'conservative dependence analysis collateral damage' because the static analysis cannot determine that when function f() returns the constant value 5 this leads the switch statement to eventually invoke function g().

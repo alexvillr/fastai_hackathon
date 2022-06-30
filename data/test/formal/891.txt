@@ -1,0 +1,1 @@
+The second approach again uses 2D trajectories along each level surface, but accounts for the additional 3D dispersion due to horizontal separations between particle pairs in adjacent levels.

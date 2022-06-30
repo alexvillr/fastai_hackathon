@@ -1,0 +1,1 @@
+The limited connectivity and fragmented nature of opportunistic networks mean that it is neither efficient to obtain and maintain a global level of knowledge of the network nor to rely on closed-loop (acknowledgement based) techniques for any decisions.

@@ -1,0 +1,1 @@
+This implies that two-dimensional scaling can effectively reduce the computational overhead with a smaller increase in the distortion area when compared with cost-scaling.

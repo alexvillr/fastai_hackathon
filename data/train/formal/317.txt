@@ -1,1 +1,1 @@
-In mobile environments, augmented learning has also been deployed on tablets and smartphones.
+We conclude using (6) and the induction hypothesis for α∈K0′(X)(d-1). □

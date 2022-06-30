@@ -1,0 +1,1 @@
+xxbos xxmaj in order to simplify the presentation below , we assume that the set of possible data values of program variables , xxup a∪s contains the integer numbers .

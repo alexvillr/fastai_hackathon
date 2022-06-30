@@ -1,1 +1,1 @@
-The Dallas Police Association also has a musical choir.
+In the present study, a realistic MEG forward model using the boundary element method (BEM) is used to calculate G (Huang et al., 2007; Mosher et al., 1999), and in BEM the θ and ϕ-orientations are obtained as the two dominant orientations from the singular-value decomposition (SVD) of the M×3 lead-field matrix for each dipole, as previously documented (Huang et al., 2006).

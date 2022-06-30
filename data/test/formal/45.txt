@@ -1,0 +1,1 @@
+The diameter of the channel window, taking into account the van der Waals radii of the surface atoms, is approximately 6-7Å.

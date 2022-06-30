@@ -1,0 +1,1 @@
+xxbos xxmaj we will later introduce the ( physical ) channels that essentially represent the wires on the chip ; the maximal delay d is then the sum of the maximal delay of the physical channels and the computing elements of the nodes .

@@ -1,1 +1,1 @@
-Girvan Academy is a secondary school in Girvan, Scotland run by South Ayrshire Council.
+Furthermore it has an output port Si as well as one binary Reset output port for each of the memory flags it uses.

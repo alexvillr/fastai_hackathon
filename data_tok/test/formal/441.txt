@@ -1,0 +1,1 @@
+xxbos xxmaj simulations are carried out with the same constant friction factor , fw=0.03 , suggested by xxmaj sørensen et al . ( 1998 ) and xxmaj tonelli and xxmaj petti ( 2012 ) .

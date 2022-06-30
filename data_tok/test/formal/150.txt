@@ -1,0 +1,1 @@
+xxbos xxmaj it follows that , in the example of the xxmaj heisenberg group ( see xxmaj section 1.4 ) , there can not be any subgroup contained in { ( 0,z ) } of dimension bigger than n.

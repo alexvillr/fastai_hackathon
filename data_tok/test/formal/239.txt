@@ -1,0 +1,1 @@
+xxbos ρvh(σ)(v)=ρv(σ)(v ) , for all v∈v , and ρvh(σ)(hash)=h(σ ) .

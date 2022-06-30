@@ -1,0 +1,1 @@
+A major difference between normal TCP flows and LDDoS flows is that normal TCP flows actively avoid network congestion due to TCP's congestion control mechanism, whereas LDDoS flows actively induce network congestion to degrade network performance.

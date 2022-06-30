@@ -1,1 +1,1 @@
-Hendricks Holding, Inc. is a privately held conglomerate based in Beloit, Wisconsin, United States.
+Once system boot is complete, the Monitor Processors test connections to neighbouring chips to record any faulty link or neighbour.

@@ -1,0 +1,1 @@
+xxbos xxmaj let m be a set , f the free abelian group with basis xxup m , and xxup h⊂f the free abelian monoid with the same basis .

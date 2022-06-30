@@ -1,0 +1,1 @@
+For half-factoriality, and projectivity of the factors, assume that s(a)=x0>x1>x2>⋯>xk=a and s(a)=y0>y1>y2>⋯>yl=a are two maximal chains from which rigid factorizations with factors ui=xi-1-1xi for i∈[1,k] and vi=yi-1-1yi for i∈[1,l] are derived.

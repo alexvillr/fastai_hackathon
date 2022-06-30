@@ -1,0 +1,1 @@
+Even though eight times as many turbines are to be optimised compared to the previous section, the number of iterations has hardly increased at all, suggesting the suitability of the method for larger arrays.

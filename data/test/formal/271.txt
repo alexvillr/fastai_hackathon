@@ -1,0 +1,1 @@
+points in K-dimensional space is bounded above by (lnT)K-1.

@@ -1,0 +1,1 @@
+xxbos xxmaj given such an order xxup o⊆ok , we consider the setao≑{α∈o|z[α]=o } .

@@ -1,1 +1,1 @@
-His publishers include Amberley (at Stroud, Gloucestershire), Halsgrove (Wellington, Somerset) and Countryside Books (Newbury, Berkshire).
+The k-Nearest Neighbours technique was applied for both k=10 and k=100, using the Weka (Witten & Frank, 2005) IBk classifier.

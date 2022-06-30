@@ -1,0 +1,1 @@
+Note that ρTCP and ρLDDoS , which respectively represents the average aggregate peak incoming rate of normal TCP flows and LDDoS flows, are normally higher than B - the bandwidth of the outgoing link of a router.

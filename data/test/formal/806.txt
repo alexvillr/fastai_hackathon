@@ -1,0 +1,1 @@
+Thus, as hα,β is continuous and increasing in β, if Vν(α) is non-empty, it is the closed interval [max(0,-α),βν∗(α)].

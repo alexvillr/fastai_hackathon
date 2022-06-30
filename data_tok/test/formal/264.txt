@@ -1,0 +1,1 @@
+xxbos xxmaj in case of the memory flag implementation shown in xxmaj fig . 11 , dmem is primarily determined by the end - to - end settling time of the feedback loop .

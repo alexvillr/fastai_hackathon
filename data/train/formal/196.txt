@@ -1,1 +1,1 @@
-The school has a storied rivalry with two schools, Gallatin High School and Beech Senior High School.
+We can now calculate the time and speedup assuming threads can read all the arrays coalesced, M=O(mn2/C+n3/C)=O(mn2/C) for connected graphs. (25)TP=O(max(T1P,T∞,M⋅LT⋅P))(26)=O(max(mn2P,n,mn2⋅LC⋅T⋅P)).

@@ -1,1 +1,1 @@
-xxbos xxmaj with 426 fatalities , it remains the deadliest mine accident to date in the country 's history .
+xxbos xxmaj only five lines of code in execute.c are also part of xxmaj cluster 2 and are used for flushing output and clearing interrupt signals .

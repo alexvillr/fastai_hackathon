@@ -1,1 +1,1 @@
-xxbos xxmaj from 2015 - 16 , it was the home of the xxmaj danville riverhawks of the xxmaj premier xxmaj basketball xxmaj league .
+xxbos xxmaj setting v = u∘ϕ and γ(s)=ϕ-1(λ(s ) ) , γ(s)=(γ1(s),γ2(s))⊂bk×u , we can rewrite xxmaj r1(s ) asr1(s)=∫udν(t)δ(t)v(γ1(s),γ2(s)⋅t ) .

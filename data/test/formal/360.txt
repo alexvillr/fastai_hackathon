@@ -1,0 +1,1 @@
+The remaining cores simply register their state in the System Controller and stall until the Monitor completes the node configuration (including detailed chip-level tests, initialising shared resources and detecting any connected Ethernet port).

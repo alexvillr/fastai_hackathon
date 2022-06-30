@@ -1,1 +1,1 @@
-Zach Light (born February 6, 1974) is an American mixed martial artist, who fights at Welterweight.
+Baseline smoothing: smoothing before fitting baseline, window 25 points.

@@ -1,0 +1,1 @@
+It should be noted that the runtime includes both the slicing phase which runs in O(ne), where n is the number of SDG vertices and e is the number of edges, and the hashing and clustering algorithm which runs in O(n2).

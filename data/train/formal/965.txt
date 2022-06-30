@@ -1,1 +1,1 @@
-Another advantage of Device Bay was that it allowed certain devices to be swapped between a desktop and laptop computer.
+From Table 1, U/RC∧⩾={[x1]C∧⩾,[x2]C∧⩾,…,[x6]C∧⩾}, where [x1]C∧⩾={x1,x2,x3},[x2]C∧⩾={x2},[x3]C∧⩾={x2,x3},[x4]C∧⩾={x2,x4},[x5]C∧⩾={x2,x5},[x6]C∧⩾={x6}.

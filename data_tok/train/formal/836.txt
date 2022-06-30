@@ -1,1 +1,1 @@
-xxbos xxmaj he helped create xxmaj bayshore xxmaj boulevard 's first subdivision : xxmaj suburb xxmaj beautiful .
+xxbos xxmaj but ( h : r(i∪j))=(h : ri)∩(h : rj ) , and we are done by applying our previous statement about the intersection to the fractional right xxmaj h - ideals ( h : ri ) and ( h : rj ) .

@@ -1,1 +1,1 @@
-It was published in April 1843 in England and the following month in the United States.
+A template cortical mesh was created, coregistered to the fiducial and headshape points, and used to estimate the forward model.

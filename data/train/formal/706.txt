@@ -1,1 +1,1 @@
-The car was introduced in November 1977 and while it took its name from the original Giulietta of 1954 to 1965, it was a new design based on the Alfa Romeo Alfetta chassis (including its rear mounted transaxle).
+As expected our design did not deadlock whereas a conventional unit deadlocked roughly 2% of the times that a glitch appears.

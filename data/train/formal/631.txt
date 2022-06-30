@@ -1,1 +1,1 @@
-Protein structures in a given environment were thought to be defined completely by their amino acid sequence.
+For each state s∈S and each node j∈[1..n], there is a memory flag Memi,j,s at node i.

@@ -1,0 +1,1 @@
+xxbos ( 21 ) and with d(h , r1,r2 ) the bottom friction term , the sum of dispersive terms and the term related to the approximation to the second order of the vertical vorticity on the right - hand side of this equation .

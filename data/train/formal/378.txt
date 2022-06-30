@@ -1,1 +1,1 @@
-Although vertebral osteomyelitis is found in patients across a wide range of ages, the infection is commonly reported in young children and older adults.
+By hypothesis, the tangent space of π(O) at 0 is contained in T0c(S)={z0=0}.

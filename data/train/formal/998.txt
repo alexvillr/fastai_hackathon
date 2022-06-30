@@ -1,1 +1,1 @@
-The museum also has a shop, and is adjacent to the Huguenot Monument.
+On average, 12,266 reads per sample were obtained, and after filtering 9136 high-quality sequences per sample were left.

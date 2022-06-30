@@ -1,0 +1,1 @@
+xxbos xxmaj note that this value represents kinetic power extraction rather than electrical power generation , since it does not incorporate losses due to the turbine support structures and the conversion to electricity .

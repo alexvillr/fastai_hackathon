@@ -1,1 +1,1 @@
-He helped create Bayshore Boulevard's first subdivision: Suburb Beautiful.
+But (H:r(I∪J))=(H:rI)∩(H:rJ), and we are done by applying our previous statement about the intersection to the fractional right H-ideals (H:rI) and (H:rJ).

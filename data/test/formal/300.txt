@@ -1,0 +1,1 @@
+Although the mtDNA replication machinery is nuclear-encoded, it is completely separate from its nuclear counterpart, and consists of just 4 basic enzyme components: DNA polymerase gamma (POLγ); DNA helicase Twinkle; mitochondrial single-stranded DNA-binding protein (mtSSB); and mitochondrial RNA polymerase (POLRMT).

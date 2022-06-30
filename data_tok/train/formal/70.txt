@@ -1,1 +1,1 @@
-xxbos xxmaj it was published in xxmaj april 1843 in xxmaj england and the following month in the xxmaj united xxmaj states .
+xxbos a template cortical mesh was created , coregistered to the fiducial and headshape points , and used to estimate the forward model .

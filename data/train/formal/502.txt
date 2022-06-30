@@ -1,1 +1,1 @@
-Hans Georg Lehmann (born 1939, in Dessau, Germany) is a retired German photographer who is noted for his spy shots of prototype automobiles whilst they undergo testing stages, frequenting in locations where test sessions are likely to occur.
+By construction, QA-A⁎Q=0 and(4.2)Δ(t,ξ)=∏1⩽i<j⩽m(τj(t,ξ)〈ξ〉-1-τi(t,ξ)〈ξ〉-1)2=〈ξ〉-m(m-1)∏1⩽i<j⩽m(τj(t,ξ)-τi(t,ξ))2=〈ξ〉-m(m-1)|ξ|m(m-1)Δ0(t,ξ), where Δ and Δ0 are the determinants of Q and Q0, respectively, and Δ0 is expressed in terms of the 0-homogeneous roots τi/|ξ|.

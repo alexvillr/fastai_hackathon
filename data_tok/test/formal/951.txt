@@ -1,0 +1,1 @@
+xxbos xxmaj to assess the robustness of the two - dimensional triangular torus topology we tested how it loses connectivity in the presence of link failures .

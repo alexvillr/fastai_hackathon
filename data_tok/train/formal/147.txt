@@ -1,1 +1,1 @@
-xxbos xxmaj it started on xxmaj february 9 , 2012 in xxmaj cleveland , xxmaj ohio and ended on xxmaj march 11 , 2012 in xxmaj nashville , xxmaj tennessee .
+xxbos xxmaj in this paper , we systematically investigate lower and upper xxmaj amos - type bounds for xxup rν = iν+1 / xxup iν on the positive reals when xxup rν is positive , or equivalently , when ν≥-1 or ν is a negative integer .

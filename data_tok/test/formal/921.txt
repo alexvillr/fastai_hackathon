@@ -1,0 +1,1 @@
+xxbos xxmaj the variables xi , yℓ with i=1, … ,n1 , ℓ=1, … ,n2 form a system of orthogonal coordinates on the affine plane xxup d0 .

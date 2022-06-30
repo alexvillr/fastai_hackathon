@@ -1,0 +1,1 @@
+Their model line profiles were also constrained by the high resolution STIS E140M observations of Vidal-Madjar et al. (2003) that resolve the components, although this data has low S/N and it was not used for transit observations.

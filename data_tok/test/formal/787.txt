@@ -1,0 +1,1 @@
+xxbos xxmaj let ν≥-1 . xxmaj then the elements of { gα , βν ♭ (α):ν≤α≤αν ♭ } are mutually incomparable .

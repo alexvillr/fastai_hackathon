@@ -1,1 +1,1 @@
-xxbos opensolaris for xxmaj system z is a discontinued port of the opensolaris operating system to the xxup ibm xxmaj system z line of mainframe computers .
+xxbos xxmaj when no network congestion can be observed from a scenario , the cprs of both lddos flows and normal xxup tcp flows all tend to be 0 according to the definition in ( 1 ) .

@@ -1,1 +1,1 @@
-xxbos xxmaj scream 4 was released on xxmaj april 15 , 2011 and grossed $ 97 million against its $ 40 million budget .
+xxbos xxmaj in xxmaj results , we compare the classification performance of the smri classifier , the fmri classifier and the combined classifier , and assess the stability of feature selection as well as the discriminatory power of features .

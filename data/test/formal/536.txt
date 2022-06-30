@@ -1,0 +1,1 @@
+The above theorem corresponds to the slow, but robust, second stabilization mechanism.

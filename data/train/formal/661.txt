@@ -1,1 +1,1 @@
-As A Dog is the debut studio album by American hip hop recording artist K.Flay.
+These ratios are of great importance in a variety of application areas, including statistics [e.g., 7] and numerical analysis [e.g., 1], either directly or through the fact that by the well-known recurrence relations for modified Bessel functions, log(Iν)′(t)=Iν′(t)Iν(t)=Iν+1(t)+(ν/t)Iν(t)Iν(t)=Rν(t)+νt from which by integration and taking limits, log(Iν)(t)=∫0tRν(s)ds+νlog(t/2)-log(Γ(ν+1)).

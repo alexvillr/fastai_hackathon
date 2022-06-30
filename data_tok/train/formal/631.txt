@@ -1,1 +1,1 @@
-xxbos xxmaj protein structures in a given environment were thought to be defined completely by their amino acid sequence .
+xxbos xxmaj for each state s∈s and each node j∈[1 .. n ] , there is a memory flag xxmaj memi , j , s at node i.

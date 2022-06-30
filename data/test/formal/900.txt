@@ -1,0 +1,1 @@
+Also the VCONF model by Rao et al. [16] has similar goals as presented in Section 1, but depends on specific parameters, can only execute one action per iteration and it neglects the energy consumption of executed actions.

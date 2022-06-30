@@ -1,0 +1,1 @@
+xxbos xxmaj in this case , the vertical and horizontal velocities along with their gradients were constrained to be consistent with open ocean conditions .

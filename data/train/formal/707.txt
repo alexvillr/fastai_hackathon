@@ -1,1 +1,1 @@
-Link Layer Discovery Protocol (LLDP), an IEEE standard that is implemented by multiple vendors and is functionally similar to CDP.Several other manufacturers, including Dell and Netgear have used the brand-neutral name Industry Standard Discovery Protocol (ISDP) to refer to their implementations of a CDP-compatible protocol.
+An additional parameter based on the degree of angular deviation (i.e. taking into account the direction vector rather than simply inclination or declination) was also made.

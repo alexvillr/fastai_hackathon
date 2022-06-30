@@ -1,0 +1,1 @@
+The SEM-EDS analysis provides useful data, but due to it having a smaller range than ICP-MS, cannot show data for elements below a certain concentration, and therefore shows data for fewer elements than ICP-MS.

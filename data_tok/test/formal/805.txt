@@ -1,0 +1,1 @@
+xxbos a rigid factorization of it is given by(alnn¯a - l)⁎⋯⁎(aln1¯a - l)⁎(alsa - l)a⁎(al-1sa-(l-1))a⁎⋯⁎(asa-1)a⁎m1⁎⋯⁎mm with mi , alnj¯a - l,(al - ksa-(l - k))a∈mv(α ) for i∈[1,m ] , j∈[1,n ] and k∈[0,l-1 ] .

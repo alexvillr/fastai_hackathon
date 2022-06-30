@@ -1,0 +1,1 @@
+xxbos xxmaj and for each such choice there are pp possibilities for the coefficients of f0 mod p2 .

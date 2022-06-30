@@ -1,0 +1,1 @@
+xxbos xxmaj both xxmaj hawkins and xxmaj ofgem noted that the reanalysis outputs need to be scaled down by a constant factor ( 29 % and 20 % respectively ) in order to match actual production in the xxup uk , a finding which we elaborate upon in this paper .

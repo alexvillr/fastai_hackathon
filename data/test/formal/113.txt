@@ -1,0 +1,1 @@
+If this measure does not solve the problem, then it hard resets the chip, forcing the System Controller to select another core as a Monitor Processor.

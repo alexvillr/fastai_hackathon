@@ -1,0 +1,1 @@
+The analysis strategy for repeated data cycles followed that used in the Framingham study (32).

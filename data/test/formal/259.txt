@@ -1,0 +1,1 @@
+This explains the large range of temperature and density profiles predicted by earlier models that arise from different boundary conditions and assumptions about the stellar flux, radiative transfer, and heating efficiencies.

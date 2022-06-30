@@ -1,1 +1,1 @@
-OpenSolaris for System z is a discontinued port of the OpenSolaris operating system to the IBM System z line of mainframe computers.
+When no network congestion can be observed from a scenario, the CPRs of both LDDoS flows and normal TCP flows all tend to be 0 according to the definition in (1).

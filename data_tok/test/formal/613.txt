@@ -1,0 +1,1 @@
+xxbos xxmaj with increased congestion levels ( above 50 % of publishing nodes ) , xxmaj fig . 11 shows that cafrep manages to keep two times higher availability than xxup ebr [ 26 ] , and above 50 % higher than xxup rr [ 38 ] .

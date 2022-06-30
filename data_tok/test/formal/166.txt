@@ -1,0 +1,1 @@
+xxbos xxmaj we calculated the collision frequencies based on the xxup c2 model , and found that collisions with neutral h dominate the transport of heavy neutral atoms such as o below 3.5rp .

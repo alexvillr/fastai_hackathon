@@ -1,1 +1,1 @@
-xxbos xxmaj his publishers include xxmaj amberley ( at xxmaj stroud , xxmaj gloucestershire ) , xxmaj halsgrove ( wellington , xxmaj somerset ) and xxmaj countryside xxmaj books ( newbury , xxmaj berkshire ) .
+xxbos xxmaj the k - nearest xxmaj neighbours technique was applied for both k=10 and k=100 , using the xxmaj weka ( witten & xxmaj frank , 2005 ) ibk classifier .

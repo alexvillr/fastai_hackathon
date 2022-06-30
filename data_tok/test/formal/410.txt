@@ -1,0 +1,1 @@
+xxbos xxmaj regarding the third statement , by extendability every feasible execution of m on some interval xxup i⊆r is the restriction of a feasible execution e of m on xxup r.

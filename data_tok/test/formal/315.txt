@@ -1,0 +1,1 @@
+xxbos xxmaj also assume that xxup m¯ is a closed subset in xxup m˜ , a complex neighborhood of xxup m¯ of the same dimension on which the complex structure on xxup m˜ extends that of m and every point of xxup m¯ is an interior point of xxup m˜.

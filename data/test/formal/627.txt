@@ -1,0 +1,1 @@
+Considering that the transport coefficient for soil gas exchange typically ranges from 1 to 10 mm2 s-1 (Kimball, 1983), our results showed that Dc was 5.2 ± 1.8 mm2 s-1 (mean ± SD).

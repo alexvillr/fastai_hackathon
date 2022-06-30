@@ -1,1 +1,1 @@
-It was released on 13 May 2002.
+data from multiple modalities, has been demonstrated to be more powerful for classification (Fan et al., 2007, 2008; Tosun et al., 2010; Wang et al., 2012).

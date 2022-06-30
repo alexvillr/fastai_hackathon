@@ -1,1 +1,1 @@
-Various methods are used to bring focus to them, such as setting apart from normal text, graphic icons, changes in text's font and color.
+Using the definition of the entries of Q given above, the fact that Δ is equivalent to λ12+λ22 and the boundedness of b2, we obtain under the assumption (5.8) that|b1(t,ξ)|2⩽c(Δ(t,ξ)+(λ1(t,ξ)+λ2(t,ξ))2)⩽c′(λ12(t,ξ)+λ22(t,ξ))=c′q11(t,ξ).

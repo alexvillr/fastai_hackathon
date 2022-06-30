@@ -1,1 +1,1 @@
-DnaJ homolog subfamily B member 11 is a protein that in humans is encoded by the DNAJB11 gene.
+As described in the instrumentation section HE consists of a set of five detectors where multiple coincidences between the detectors are used to determine ions or electrons and their energies.

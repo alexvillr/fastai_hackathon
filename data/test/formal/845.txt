@@ -1,0 +1,1 @@
+U′ will be divided into r+1 partitions, such as: D={D1,…,Di,Dnew,Di+1,…,Dr}, where |D|=r+1,Dnew={x̃}.

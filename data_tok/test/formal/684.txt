@@ -1,0 +1,1 @@
+xxbos xxmaj intuitively , these are all the elements that are not the endpoints of intervals : while there are countably many endpoints ( with density less than one ) , there are uncountably many elements that are not endpoints.1010

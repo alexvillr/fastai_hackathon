@@ -1,1 +1,1 @@
-John J. Hicks was second director of National Photographic Interpretation Center (NPIC).
+It specifies rules to trigger after a violation has occurred, but it does not deal with avoidance of SLA violations.

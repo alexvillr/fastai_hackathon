@@ -1,0 +1,1 @@
+We developed a one-dimensional, non-hydrostatic escape model for HD209458b to constrain the mean temperature and ionization in the upper atmosphere (Paper I).

@@ -1,0 +1,1 @@
+xxbos xxmaj as a typical highly - threaded , many - core machine , it also features a 1.5 xxup gb global memory and 16 kb / 48 kb of configurable on - chip shared memory per multiprocessor , which can be accessed with latency significantly lower than the global memory .

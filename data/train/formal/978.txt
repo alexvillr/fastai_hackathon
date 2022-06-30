@@ -1,1 +1,1 @@
-Largely consisting of a single farm and ancient woodland (Staverton Forest), most of its 30 residents live on the farm estate.
+There is a unique morphism of presheaves of abelian groups on V ar/kr(p):K0(-)→(CH(-)⊗Z/p)× such that for L a line bundle, r(p)(L)=R(p)(c1(L)).

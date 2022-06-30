@@ -1,1 +1,1 @@
-The population was 1,050 at the 2000 census.
+By contrast, in Example 3.2, we had to specify this explicitly, by stating that any behavior of the output in [t-,t-+d) is feasible (by leaving the behavior unspecified in this interval).

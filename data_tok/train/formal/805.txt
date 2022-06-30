@@ -1,1 +1,1 @@
-xxbos xxmaj the race has increased in length several times since then .
+xxbos a⊆c,∀di⩾(1⩽i⩽r ) , the lower and upper approximations of xxmaj di⩾ with respect to the dominance relation xxup raδ⩾(δ∈{∧,∨ } ) are defined respectively as follows:(3)raδ⩾̲di⩾=x∈u|[x]aδ⩾⊆di⩾,(4)raδ⩾¯di⩾=⋃x∈di⩾[x]aδ⩾.analogously , ∀di⩽(1⩽i⩽r ) , the lower and upper approximations of xxmaj di⩽ are defined as:(5)raδ⩾̲di⩽=x∈u|[x]aδ⩽⊆di⩽,(6)raδ⩾¯di⩽=⋃x∈di⩽[x]aδ⩽.

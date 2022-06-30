@@ -1,0 +1,1 @@
+xxbos xxmaj if no other transition is currently being taken ( indicated by the locked signal being 0 ) , the xxup tsm clock is started and the xxup tsm sequence counter is released .

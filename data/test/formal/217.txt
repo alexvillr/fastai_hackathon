@@ -1,0 +1,1 @@
+Fig. 7a shows that both Sassy [44] and SF Cab [45] traces exhibit predominantly short contact durations (a mean of 33s and 31s, a median of 27s and 24s and a maximum of 2.3min and 4min respectively) while Infocom 2006 displays substantially longer contact durations (a mean of 3min, a median of 2.5min and a maximum value of 7min).

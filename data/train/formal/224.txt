@@ -1,1 +1,1 @@
-Between Mahaffey and Grampian on U.S. Route 219, Greenwood Township contains the villages of Curry Run and Bells Landing.
+While these methods tend to be robust and can, under certain smoothness conditions, provably find globally optimal solutions [33], they typically require a very large number of functional evaluations that scales linearly or superlinearly with the number of parameters to be optimised.

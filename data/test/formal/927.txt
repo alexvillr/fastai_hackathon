@@ -1,0 +1,1 @@
+The complexification XC of X is given by T×C, in which we consider coordinates (z0=θ+iy0,z1) where θ∈S1, y0∈R, z1∈C.

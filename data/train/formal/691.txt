@@ -1,1 +1,1 @@
-Saxer entered the Industrial College of the Armed Forces in June 1970.
+ our model does not prohibit that temporarily infeasible inputs result in permanent infeasibility, i.e., even when inputs become benign again at a later state of the execution of the module in question, there is no suffix of the execution that is feasible.

@@ -1,1 +1,1 @@
-It was a small, ground-dwelling browser, and fossils have been found in Oligocene deposits throughout Central and East Asia.
+Moreover, broadcasting the same information to all nodes instead of different information to different receivers is to be preferred, as it allows us to use communication buses.

@@ -1,0 +1,1 @@
+Step 18-34 update the approximations of the union of classes Di⩾, when the deleted object x¯ does not belong to the union of classes Di⩾.

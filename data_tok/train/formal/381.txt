@@ -1,1 +1,1 @@
-xxbos xxmaj douglas xxup l. xxmaj jones is a professor of xxmaj electrical and xxmaj computer xxmaj engineering at the xxmaj university of xxmaj illinois at urbana - champaign .
+xxbos xxmaj since a node treats itself like any other node in type ( 2 ) and type ( 3 ) guards with thresholds , every node receives its own state as well .

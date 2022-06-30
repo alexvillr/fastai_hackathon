@@ -1,0 +1,1 @@
+An approximation is employed to reduce the computation time and memory requirement.

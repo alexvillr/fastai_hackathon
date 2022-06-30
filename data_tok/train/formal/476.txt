@@ -1,1 +1,1 @@
-xxbos xxmaj the show featured a very similar premise to the show xxmaj ground xxmaj force , in which a team of gardeners employed by the show descend on a supposedly worthy individual 's place and improve the garden for the cameras within a specified time limit .
+xxbos xxmaj the dominance relation in terms of a is defined as:(2)ra∨⩾={(y , x)∈u×u|y⪰ax}={(y , x)∈u×u|maxf(y , a)⩾minf(x , a),∀a∈a }

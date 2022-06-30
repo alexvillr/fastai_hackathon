@@ -1,0 +1,1 @@
+As it is acyclic as well, there must be a module S without an incoming edge, implying that Ei-1 specifies executions of all its input ports.

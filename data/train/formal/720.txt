@@ -1,1 +1,1 @@
-Andrew M. "Andy" Slavitt is a former Acting Administrator of the Centers for Medicare and Medicaid Services (CMS), a position he held from March 2015 to January 2017.
+Finally, the KB also contains a decision mechanism that interprets the state of available objects in order to recommend a reconfiguration action.

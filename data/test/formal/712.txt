@@ -1,0 +1,1 @@
+As buffer capacity, transfer bandwidth and battery life are limited, the messages can only be transferred successfully if the efficient coordination between the devices competing for resources is provided.

@@ -1,0 +1,1 @@
+It follows from our construction that the restriction of a Weyl-invariant eigenfunction of the higher Macdonald operators Mλ onto the plane D0 is an eigenfunction of the corresponding operators Mλ¯.

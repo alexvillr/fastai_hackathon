@@ -1,0 +1,1 @@
+They in [42] consider three types of caching systems for CMPs: D-CMP with a private cache for each core, S-CMP with a single cache shared by all cores, and multi-core with private L1 caches and a shared L2 cache.

@@ -1,0 +1,1 @@
+An estimate of the pressure levels of the BS1 and BS2 features can be made using the ratio of spatial modulations in H and Hcont filters, as employed in the simplest form by de Pater et al. (2011) and in a more exact form here.

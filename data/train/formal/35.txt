@@ -1,1 +1,1 @@
-Kygo was asked to create the official anthem of the 2015 Ultra Music Festival.
+Given that symmetric redundancy of memory is expensive, recent work has introduced the concept of heterogeneous fault tolerance: graceful fall-back onto other components able to perform the same function, possibly with reduced performance [45,46].

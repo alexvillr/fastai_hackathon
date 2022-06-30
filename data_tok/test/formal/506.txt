@@ -1,0 +1,1 @@
+xxbos xxmaj then ( a ) ⇒ ( b ) and ( a ) ⇒ ( c ) .

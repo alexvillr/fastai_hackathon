@@ -1,1 +1,1 @@
-With partner Jim Watters, she won the bronze medal at the Canadian Figure Skating Championships in 1964 and 1965 and competed at the 1964 Winter Olympics in Innsbruck, Austria.
+If q=(z0q,zq) is such that Λ(q)=0 and q∈bM, we have that2ReP(zq)=Imz0q=2ImP(zq)ℓ(2ImP(zq),zq)+2ReP(zq)+L(zq,z¯q)+O(3), from which we getL(zq,z¯q)+O(3)=0.

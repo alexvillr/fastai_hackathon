@@ -1,0 +1,1 @@
+So, if the utilization value after some measurement leaves this region by using more (Region -1) or less resources (Region +1), then we reset the utilization to the target value, i.e., we increase or decrease allocated resources so that the utilization is again at tv(r)=TTlowr+TThighr2%.

@@ -1,1 +1,1 @@
-This receptor binds pituitary adenylate cyclase activating peptide.
+Considering Table 2 we can see that rows 1 and 3 do not represent violations, whereas row 2 does represent an SLA violation.

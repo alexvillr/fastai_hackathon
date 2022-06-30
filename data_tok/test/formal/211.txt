@@ -1,0 +1,1 @@
+xxbos xxmaj by inserting a bnc - splitter in the connection between the timing box and the xxup piv camera , the timing box was also connected to the frame - grabbing board of the xxup lif computer .

@@ -1,0 +1,1 @@
+xxbos xxmaj the remaining cores simply register their state in the xxmaj system xxmaj controller and stall until the xxmaj monitor completes the node configuration ( including detailed chip - level tests , initialising shared resources and detecting any connected xxmaj ethernet port ) .

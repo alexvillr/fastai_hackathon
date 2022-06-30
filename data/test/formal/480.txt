@@ -1,0 +1,1 @@
+Let M be a set, F the free abelian group with basis M, and H⊂F the free abelian monoid with the same basis.

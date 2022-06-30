@@ -1,0 +1,1 @@
+xxbos xxmaj however , as these boards can not be connected to form a network , they are not able to scale to the magnitudes of spinnaker .

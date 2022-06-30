@@ -1,0 +1,1 @@
+xxbos xxmaj denoting by [ i .. j ] the set { k∈n|i⩽k⩽j } , ultimately , each correct node i∈[1 .. n ] must at all times t output a ( discrete ) logical clock li(t)∈n that fulfills certain properties despite the aforementioned obstacles ; most obviously , we strive for minimizing maxi , j∈[1 .. n],t⩾0{li(t)-lj(t ) } .

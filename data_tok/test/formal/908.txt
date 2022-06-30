@@ -1,0 +1,1 @@
+xxbos xxmaj hence q = t1k and we can choose(4.22)sℓ={en1+k(ℓ-1)+1 - en1+k(ℓ-1)+2, … ,en1+kℓ-1 - en1+kℓ},ℓ=1, … ,n2 , where xxmaj n1 = n - mk and xxmaj n2 = m.

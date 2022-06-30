@@ -1,0 +1,1 @@
+We assume that the objects in Table 3 will be inserted into Table 1, and the objects in Table 4 will be inserted into Table 2.Case 1:

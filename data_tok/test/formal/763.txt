@@ -1,0 +1,1 @@
+xxbos xxmaj similar to xxmaj fig . 1 , the transition conditions of the quick cycle ensure that the logical clocks never have a clock imprecision of more than one .

@@ -1,0 +1,1 @@
+Using a standard FFT package, from each of the aforesaid M data segments a power spectrum is computed.

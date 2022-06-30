@@ -1,0 +1,1 @@
+We deduce that Defect 1 is at EV+0.22eV, and that Defect 2 is at EC-0.08eV.

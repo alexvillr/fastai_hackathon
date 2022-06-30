@@ -1,0 +1,1 @@
+xxbos xxmaj for the sake of notational convenience , we also letq(s , ζ)=f(h(ζ),ζ)+s+sζ⋅b(s , ζ)s+|ζ|2,r(s , ζ)=h(ζ)+sζ⋅a(s , ζ)s+|ζ|2 .

@@ -1,0 +1,1 @@
+In contrast, DOR is oblivious and therefore unaware of network failures so our results should be taken as pessimistic

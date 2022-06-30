@@ -1,1 +1,1 @@
-Super Talent Technology, headquartered in San Jose, California, designs and manufactures flash memory based storage products for enterprise servers, workstations, personal computers and consumer electronics.
+Any efficient set E⊂Rp may be expressed as the countable union of bounded subsets, Ei:E=∪i=1∞Ei.

@@ -1,0 +1,1 @@
+ti⊨f U g iff ∃j≥i.(tj⊨g and ∀i≤k<j.[tk⊨f]).

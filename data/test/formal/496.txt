@@ -1,0 +1,1 @@
+During this stage, infant brain images were transformed to the AC-PC plane.

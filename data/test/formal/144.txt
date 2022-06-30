@@ -1,0 +1,1 @@
+Another possibility is to increase the number of blades for higher blockage ratios, thus avoiding the large curvature effects associated with large chord lengths.

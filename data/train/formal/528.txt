@@ -1,1 +1,1 @@
-It is his second album under the character Mister Whiskers and includes his dog, Smiggy.
+One way to avoid the problem with an unstable region for the 3 m/s curve, and to obtain a faster control strategy, is to introduce a second order term according to(7){Pe*=0ω≤ω0,Pe*=k1ω2(ω-ω0)ω>ω0,where and k1 and ω0 are constants (strategy B).

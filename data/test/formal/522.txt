@@ -1,0 +1,1 @@
+The ATR measurements were performed using a custom made grazing angle total reflectance accessory (GATRTM from Harrick), with a removable hemispherical IRE and with incident beam angle of 65°.

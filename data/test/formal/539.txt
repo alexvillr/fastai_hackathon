@@ -1,0 +1,1 @@
+The equalities u′=a∨Pt(a), u′∧v=a and u′∨v=t(a) are shown similarly.

@@ -1,0 +1,1 @@
+A rigid factorization of it is given by(alNn¯a-l)⁎⋯⁎(alN1¯a-l)⁎(alSa-l)a⁎(al-1Sa-(l-1))a⁎⋯⁎(aSa-1)a⁎M1⁎⋯⁎Mm with Mi,alNj¯a-l,(al-kSa-(l-k))a∈Mv(α) for i∈[1,m], j∈[1,n] and k∈[0,l-1].

@@ -1,0 +1,1 @@
+Let α be the set of all classical maximal OK-orders in A (i.e., the equivalence class of the maximal order R).

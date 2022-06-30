@@ -1,0 +1,1 @@
+Since w∈W+ and β,θℓ∈R0 it follows θ=wβ≤wθℓ (see the comment after the formula (3.2)).

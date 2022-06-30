@@ -1,0 +1,1 @@
+To make more precise observations about such a set, we need the notion of Hausdorff dimension, which we now introduce.

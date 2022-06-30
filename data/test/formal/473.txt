@@ -1,0 +1,1 @@
+It is interesting to see in Fig. 12 that RR [38] has higher packet loss rates than CafRep despite RR [38] tracking and adapting to the global packet loss congestion signals.

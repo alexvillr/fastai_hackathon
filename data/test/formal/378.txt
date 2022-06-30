@@ -1,0 +1,1 @@
+Intuitionally, rTCP is the ratio of the shaded area to the area enclosed by the Rate curve and the Time axis (from 0 to T) in Fig. 7, i.e., the area enclosed by the bold curves.(3)rTCP=T∗×δTCP/zT∗×ρTCP/z+(T-T∗)×B/z=T∗×δTCPT∗×ρTCP+(T-T∗)×B

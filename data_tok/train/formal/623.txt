@@ -1,1 +1,1 @@
-xxbos xxmaj it was described by xxmaj hans xxmaj georg xxmaj amsel in 1938 .
+xxbos xxmaj the action of the group xxup wˆ on v induces the following linear action on the space xxmaj vˆ:(2.3)wτ(λ)(α)=[w(α(1)),α(0)-ℏ(α(1),λ ) ] , where w∈w , λ∈p∨ , α=[α(1),α(0 ) ] .

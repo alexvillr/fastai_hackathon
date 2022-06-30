@@ -1,1 +1,1 @@
-Morelli died suddenly on April 19, 2015, aged 58.
+In this work, rather than deriving, discretising and implementing the adjoint equation (11) by hand, we apply the high-level algorithmic differentiation approach described in Ref.

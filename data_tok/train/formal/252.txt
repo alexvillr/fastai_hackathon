@@ -1,1 +1,1 @@
-xxbos xxmaj only those rare packets that require complex processing are forwarded to the xxup os networking stack , which performs the necessary management , signaling and control functions .
+xxbos xxmaj how large are the coherent clusters that exist in production source code and which patterns of clustering can be identified ?

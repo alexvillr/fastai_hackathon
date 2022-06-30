@@ -1,1 +1,1 @@
-The show featured a very similar premise to the show Ground Force, in which a team of gardeners employed by the show descend on a supposedly worthy individual's place and improve the garden for the cameras within a specified time limit.
+The dominance relation in terms of A is defined as:(2)RA∨⩾={(y,x)∈U×U|y⪰Ax}={(y,x)∈U×U|maxf(y,a)⩾minf(x,a),∀a∈A}

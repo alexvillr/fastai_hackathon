@@ -1,0 +1,1 @@
+A set B of two nodes with fast clock sources.

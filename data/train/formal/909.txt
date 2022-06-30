@@ -1,1 +1,1 @@
-As remontancy is considered a desirable horticultural characteristic, it is preferentially selected for by rose hybridisers.
+Note that the required number of revolutions for convergence varies substantially, depending on many parameters, such as the channel length, how much the turbine decreases the flow velocity etc.

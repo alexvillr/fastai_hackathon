@@ -1,1 +1,1 @@
-xxbos xxmaj since 2005 xxmaj unit 1 with installed capacity of 470 xxup mw is in commercial operation .
+xxbos xxmaj this necessitated the development of a testbed that can be efficiently controlled and set up for executing a large number of test runs quickly .

@@ -1,1 +1,1 @@
-The University, set up at Sibsagar in Upper Assam, is a teaching, residential university.
+For the case of a constant linear heating rate, dT/dt, the temperature, T, is directly proportional to the time, t.

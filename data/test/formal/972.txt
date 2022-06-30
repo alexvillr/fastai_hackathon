@@ -1,0 +1,1 @@
+Then for all integers n such that 0≤n<p(p-1), and all elements x∈K0′(X)(d), we haveτn⋅chd-n(x)∈CH(X)Z⊂Q.

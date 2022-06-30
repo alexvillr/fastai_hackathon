@@ -1,1 +1,1 @@
-xxbos xxmaj pretty much the area surrounding these gates have adopted the name of the gate as the name of the locality .
+xxbos xxmaj trivially , this number of gates is a factor of xxmaj o(logn ) from optimal .

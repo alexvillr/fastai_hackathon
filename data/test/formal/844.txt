@@ -1,0 +1,1 @@
+But trivially R-1/2=tanh<1=G0,0, so that the upper bound is in fact valid for ν≥-1/2.

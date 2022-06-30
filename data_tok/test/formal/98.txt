@@ -1,0 +1,1 @@
+xxbos xxmaj in the existing approximation algorithms , the cost metric is quantized , so that we can get the approximate delay function xxmaj d(c ) .

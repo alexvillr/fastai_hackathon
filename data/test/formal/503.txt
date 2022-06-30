@@ -1,0 +1,1 @@
+This means that, despite discovering more paths than other protocols can discover, with the increase of publishing nodes (above 70% congestion rate where most nodes are publishing), publishing nodes are forced into decreased availability and dropping the packets that they cannot offload.

@@ -1,0 +1,1 @@
+xxbos xxmaj it consists of a toroidal arrangement of processing nodes , each incorporating a purpose - built , multi - core system - on - chip ( soc ) and an xxup sdram memory ( fig . 1 ) .

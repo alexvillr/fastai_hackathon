@@ -1,0 +1,1 @@
+xxbos xxmaj we assume that the objects in xxmaj table 3 will be inserted into xxmaj table 1 , and the objects in xxmaj table 4 will be inserted into xxmaj table 2.case 1 :

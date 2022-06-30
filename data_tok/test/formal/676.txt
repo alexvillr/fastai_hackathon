@@ -1,0 +1,1 @@
+xxbos xxmaj however , a same - backward - slice cluster ( inadvertently ) adds to this internal requirement the external requirement that all vertices in the cluster are affected by the same vertices external to the cluster .

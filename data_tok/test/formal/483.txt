@@ -1,0 +1,1 @@
+xxbos xxmaj util.c consists of small utility functions called from various parts of the program .

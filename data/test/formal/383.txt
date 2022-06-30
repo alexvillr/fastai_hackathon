@@ -1,0 +1,1 @@
+When a network's bandwidth is sufficiently high, packets are unlikely to be dropped in the network, and an LDDoS attack cannot throttle normal TCP traffic either.

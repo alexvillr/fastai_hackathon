@@ -1,0 +1,1 @@
+xxbos xxmaj in addition to existing ldos detection approaches , flow - level xxmaj active xxmaj queue xxmaj management ( aqm ) mechanisms are also relevant to our approach as they detect and limit unresponsive [ 48 ] flows , including xxup fred [ 49 ] , xxup red - pd [ 50 ] , xxup sfb [ 51 ] , choke[52 ] , etc .

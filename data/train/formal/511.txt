@@ -1,1 +1,1 @@
-The Minotola Post Office was founded by John H. Sims in 1897.
+For self-stabilizing algorithms, stabilization time is obviously an important quality measure.

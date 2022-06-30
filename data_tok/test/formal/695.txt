@@ -1,0 +1,1 @@
+xxbos xxmaj it follows from our construction that the restriction of a xxmaj weyl - invariant eigenfunction of the higher xxmaj macdonald operators xxup mλ onto the plane xxup d0 is an eigenfunction of the corresponding operators xxup mλ¯.

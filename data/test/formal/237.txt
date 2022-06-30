@@ -1,0 +1,1 @@
+Counter projection ρVc does not permit Spin to detect cycles in the projected trace.

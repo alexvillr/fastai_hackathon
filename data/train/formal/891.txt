@@ -1,1 +1,1 @@
-21 Cyclists participated in the contest.
+Assume first that u is transposable to v via c∈G+(e,f).

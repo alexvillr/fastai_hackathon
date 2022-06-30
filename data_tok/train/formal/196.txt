@@ -1,1 +1,1 @@
-xxbos xxmaj the school has a storied rivalry with two schools , xxmaj gallatin xxmaj high xxmaj school and xxmaj beech xxmaj senior xxmaj high xxmaj school .
+xxbos xxmaj we can now calculate the time and speedup assuming threads can read all the arrays coalesced , m = o(mn2 / xxmaj c+n3 / c)=o(mn2 / xxup c ) for connected graphs . ( 25)tp = o(max(t1p , t∞,m⋅lt⋅p))(26)=o(max(mn2p , n , mn2⋅lc⋅t⋅p ) ) .

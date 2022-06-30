@@ -1,0 +1,1 @@
+With increased congestion levels (above 50% of publishing nodes), Fig. 11 shows that CafRep manages to keep two times higher availability than EBR [26], and above 50% higher than RR [38].

@@ -1,0 +1,1 @@
+The same is the case for the activation energies of Q=0.99 and 1.20eV determined for Cu and Ni, respectively, from Kissinger analysis (Cu, present studies; Ni [15]) and from Johnson-Mehl-Avrami-Kolmogorov analysis (Ni [15]).

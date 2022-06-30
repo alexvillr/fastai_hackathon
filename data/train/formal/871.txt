@@ -1,1 +1,1 @@
-Ornate historic mansions with incredible panoramic views still reflect this heritage.
+Each functional α∈Vˆ acts on x∈V as α(x)=(α(1),x)+α(0), where α(1)∈V and α(0)∈C, we write α=[α(1),α(0)] in this case.

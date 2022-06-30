@@ -1,0 +1,1 @@
+xxbos xxmaj once λmax is known , cpmax should be possible to estimate from simulation data combined with data from other similar turbines .

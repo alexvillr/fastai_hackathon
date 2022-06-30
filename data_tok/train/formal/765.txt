@@ -1,1 +1,1 @@
-xxbos xxmaj as of 2 xxrep 3 0 , there are about 96 species and subspecies included in the genus .
+xxbos xxmaj theorem 3.1 proves that the integral closure of the intersection of a collection of pullbacks of this kind is the intersection of the integral closure of the pullbacks of the family .

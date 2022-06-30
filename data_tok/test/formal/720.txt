@@ -1,0 +1,1 @@
+xxbos xxmaj the setting of these fixed parameters means that four attackers each simultaneously start an ldos attack ( ta=1s , tb=200ms , rb , s=5s ) .

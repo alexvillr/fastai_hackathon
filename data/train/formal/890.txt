@@ -1,1 +1,1 @@
-It is affiliated to Pachuca of Mexico.
+The comparison between the computed wave heights obtained using the Nwogu's equations and those obtained using the proposed fully non linear Boussinesq model shows the importance of retaining terms up to O(εμ2) in variable depth power expansion.

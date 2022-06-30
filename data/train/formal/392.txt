@@ -1,1 +1,1 @@
-One electoral district was newly created and another two were merged into one.
+A stepwise approach to DCM was used (Stephan et al., 2010), which included 1) specifying the network by systematic variation of intrinsic anatomical connections and the connections that are modulated by experimental context; 2) fitting the data to the model by optimising model parameters; 3) estimating the free energy limit on model evidences and 4) identifying the most likely model using a hierarchical Bayesian model comparison.

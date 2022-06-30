@@ -1,1 +1,1 @@
-However, in Stewart Culin's 1907 book, the Zunis claim that they had adopted a hunt game from Mexico similar to Catch the Hare and the Fox games of Europe, and transformed it into Awithlaknannai Mosona.
+The generalized Coxeter number can be equivalently defined as the coefficient of proportionality of the following W-invariant inner products (cf. [13]):(3.10)∑α∈Rηα(α,u)(α,v)(α,α)=hη⋅(u,v),∀u,v∈V.

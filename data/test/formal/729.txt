@@ -1,0 +1,1 @@
+Here, the bus capacitance per generator is equal for both topologies.

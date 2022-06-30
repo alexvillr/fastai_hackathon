@@ -1,0 +1,1 @@
+In addition to existing LDoS detection approaches, flow-level Active Queue Management (AQM) mechanisms are also relevant to our approach as they detect and limit unresponsive [48] flows, including FRED [49], RED-PD [50], SFB [51], CHOKe[52], etc.

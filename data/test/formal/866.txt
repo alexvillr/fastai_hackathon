@@ -1,0 +1,1 @@
+We take advantage of these C oriented features to communicate Spin with the JDI-based monitor, to represent the Java states in Spin, and to implement our abstraction methods for Java states, explained in Section 3.1.3.

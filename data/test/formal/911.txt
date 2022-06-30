@@ -1,0 +1,1 @@
+This nurse Chip will 'peek and poke' the remote System Controller to identify any healthy cores.

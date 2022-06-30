@@ -1,1 +1,1 @@
-xxbos xxmaj chris xxmaj daughtry wrote the song with xxmaj chad xxmaj kroeger , xxmaj joey xxmaj moi , xxmaj eric xxmaj dill , and xxmaj rune xxmaj westberg , while xxmaj howard xxmaj benson handled the production .
+xxbos xxmaj the next theorem , which corresponds to the faster first stabilization mechanism , essentially states that in an execution where n - f nodes already stabilized , any further non - faulty nodes recover quickly and deterministically , within xxup o(α ) time .

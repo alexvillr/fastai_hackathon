@@ -1,0 +1,1 @@
+xxbos xxmaj in other words , when the aggregate rate of the lddos flows is very close to the bottleneck bandwidth of network , deploying xxup red is able to drop more attack packets while increasing the throughput of the normal xxup tcp flows .

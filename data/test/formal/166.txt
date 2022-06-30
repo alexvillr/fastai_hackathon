@@ -1,0 +1,1 @@
+We calculated the collision frequencies based on the C2 model, and found that collisions with neutral H dominate the transport of heavy neutral atoms such as O below 3.5Rp.

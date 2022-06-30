@@ -1,0 +1,1 @@
+The data presented contains a wafer-based poly-crystalline silicon (c-Si) device as a reference, one single junction amorphous silicon device (a-Si-1), one double junction amorphous silicon device (a-Si-2), one triple junction amorphous silicon device (a-Si-3) and two Copper-Indium, Gallium-Diselenide devices (CIGS).

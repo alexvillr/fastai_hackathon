@@ -1,0 +1,1 @@
+Values of ω¯z generally remain within the range ω¯z<|ω¯o|, where ω¯o is the stable autorotational speed, which for a plate with the mass and inertia under consideration here is approximately 1.0 as shown by the dotted lines in Fig. 5.

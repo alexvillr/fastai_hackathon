@@ -1,0 +1,1 @@
+Finally an erosion morphological filter was applied with a hexagon lattice setting of size three pixels and two iterations.

@@ -1,0 +1,1 @@
+A subsequent, conditional binary logistic multiple regression analysis was performed based on all participants with current tinnitus, with severity (tinnitus not bothersome as the reference category) as the dependent variable.

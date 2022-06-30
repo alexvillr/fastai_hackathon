@@ -1,1 +1,1 @@
-Yan Xiao is an engineer and Professor of Civil Engineering at USC.
+After having derived it we discuss in detail the case of rings, and of classical maximal orders (Section 5.1 and Section 5.2).

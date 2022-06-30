@@ -1,0 +1,1 @@
+As Δ′(t)=tt2+β12-tt2+β22, if β1<β2 we have Δ′>0 and hence Δ>0 iff Δ(0)≥0, and Δ<0 iff Δ(∞)≤0.

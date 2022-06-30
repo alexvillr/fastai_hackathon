@@ -1,1 +1,1 @@
-xxbos xxmaj on xxmaj november 8 , it was rejected .
+xxbos xxmaj we see that the combination of high ttlow and high tthigh ( scenario 8) gives the best utilization ( 84.0 % ) , whereas low values for ttlow and tthigh lead to the worst utilization ( 62.0 % in xxmaj scenario 1 ) .

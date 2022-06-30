@@ -1,0 +1,1 @@
+By Lemma 1, Dopt(r′·c)≤D(r′·c)=r′·d.

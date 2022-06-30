@@ -1,0 +1,1 @@
+xxbos xxmaj subtle issues originate in the fact that a module may become correct after an earlier ( transient ) fault , in the sense that its internal components work as intended afterwards .

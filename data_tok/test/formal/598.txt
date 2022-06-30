@@ -1,0 +1,1 @@
+xxbos xxmaj they in [ 42 ] consider three types of caching systems for cmps : xxup d - cmp with a private cache for each core , xxup s - cmp with a single cache shared by all cores , and multi - core with private xxup l1 caches and a shared xxup l2 cache .

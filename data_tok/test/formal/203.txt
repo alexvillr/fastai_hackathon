@@ -1,0 +1,1 @@
+xxbos xxmaj the optimisation algorithm terminated after 56 iterations ( 55 gradient evaluations , 73 functional evaluations ) .

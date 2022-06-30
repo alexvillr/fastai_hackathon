@@ -1,1 +1,1 @@
-Established in 1905, the American Library Institute was an organization conceived by Melvil Dewey to provide for the investigation, study and discussion of issues within the field of library theory and practice.
+From the previous observation (5.1) on Δ˜ we have that Δ˜(t,ξ)⩽c2(1/t2)Δ(t,ξ) on [0,T] for |ξ|⩾1.

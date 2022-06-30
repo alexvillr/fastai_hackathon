@@ -1,1 +1,1 @@
-It started on February 9, 2012 in Cleveland, Ohio and ended on March 11, 2012 in Nashville, Tennessee.
+In this paper, we systematically investigate lower and upper Amos-type bounds for Rν=Iν+1/Iν on the positive reals when Rν is positive, or equivalently, when ν≥-1 or ν is a negative integer.

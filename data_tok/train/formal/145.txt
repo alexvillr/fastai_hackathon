@@ -1,1 +1,1 @@
-xxbos xxmaj this xxmaj olympic xxmaj games results index is a list of links which forms an index which can be used to quickly find the required xxmaj wikipedia page containing the results of each xxmaj olympic sport ( summer or winter ) in any year of interest .
+xxbos xxmaj in the first step , each neighbor u of g sets xxmaj du , g(c ) to be du , g , where c = cu , g , cu , g+1, … ,ub .

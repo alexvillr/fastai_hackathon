@@ -1,1 +1,1 @@
-Scream 4 was released on April 15, 2011 and grossed $97 million against its $40 million budget.
+In Results, we compare the classification performance of the sMRI classifier, the fMRI classifier and the combined classifier, and assess the stability of feature selection as well as the discriminatory power of features.

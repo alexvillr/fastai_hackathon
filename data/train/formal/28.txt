@@ -1,1 +1,1 @@
-Its formation was triggered by a series of sovereign debt defaults in the mid-19th century.
+Thus we construct operations T1,…,Tp-1 unconditionally, and operations Ti for all i>0 when the characteristic of the base field is not p.

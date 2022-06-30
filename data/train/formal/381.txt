@@ -1,1 +1,1 @@
-Douglas L. Jones is a professor of Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign.
+Since a node treats itself like any other node in type (2) and type (3) guards with thresholds, every node receives its own state as well.

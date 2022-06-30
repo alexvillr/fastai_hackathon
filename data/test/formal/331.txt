@@ -1,0 +1,1 @@
+there exists M>0 such thatλ12(t,ξ)+λ22(t,ξ)⩽M(λ1(t,ξ)-λ2(t,ξ))2,t∈[0,T],|ξ|⩾1.

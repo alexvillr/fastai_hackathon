@@ -1,0 +1,1 @@
+xxbos xxmaj the group of units of e has the formh={(f , f′)|f : zp→zp bijective , f′:zp→zp∖{0 } } .

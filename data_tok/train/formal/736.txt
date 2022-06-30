@@ -1,1 +1,1 @@
-xxbos xxmaj the population was 1,050 at the 2 xxrep 3 0 census .
+xxbos xxmaj by contrast , in xxmaj example 3.2 , we had to specify this explicitly , by stating that any behavior of the output in [ t-,t-+d ) is feasible ( by leaving the behavior unspecified in this interval ) .

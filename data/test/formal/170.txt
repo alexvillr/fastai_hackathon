@@ -1,0 +1,1 @@
+Assume that the decision attribute d makes a partition of U into a finite number of classes.

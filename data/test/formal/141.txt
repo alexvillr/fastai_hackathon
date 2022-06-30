@@ -1,0 +1,1 @@
+Let X be a variety, and (12)K(X)=ker(CH(X)→grK0′(X)).

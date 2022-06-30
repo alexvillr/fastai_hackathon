@@ -1,0 +1,1 @@
+A quantity that can be compared with their results is the pressure averaged temperature of the hydrodynamic model, which is given by:(8)Tp¯=∫p1p2T(p)d(lnp)ln(p2/p1)For ηnet ranging from 0.1 to 1, the pressure averaged temperature below 3Rp varies from 6200K to 7800K for the average solar flux.

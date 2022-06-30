@@ -1,0 +1,1 @@
+xxbos xxmaj then , there exist two positive constants c1 and c2 depending only on the xxmaj l∞-norm of the entries of xxmaj n(t ) such thatc1detn(t)|v|2⩽〈n(t)v , v〉⩽c2|v|2 holds for all t∈[a , b ] and v∈cm .

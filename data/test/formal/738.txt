@@ -1,0 +1,1 @@
+It is noted that average operating voltage of NaFe0.5Co0.5O2 (3.14V) in Na cell is higher than 2.96V for NaCoO2.

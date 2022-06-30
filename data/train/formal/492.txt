@@ -1,1 +1,1 @@
-From 2015-16, it was the home of the Danville RiverHawks of the Premier Basketball League.
+Setting v=u∘ϕ and γ(s)=ϕ-1(λ(s)), γ(s)=(γ1(s),γ2(s))⊂Bk×U, we can rewrite R1(s) asR1(s)=∫Udν(t)Δ(t)v(γ1(s),γ2(s)⋅t).

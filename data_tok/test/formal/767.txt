@@ -1,0 +1,1 @@
+xxbos xxmaj using a standard xxup fft package , from each of the aforesaid m data segments a power spectrum is computed .

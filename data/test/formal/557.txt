@@ -1,0 +1,1 @@
+A hash-based coherent-slice cluster is a hash-based coherent-slice MDS contained within no other hash-based coherent-slice MDS.

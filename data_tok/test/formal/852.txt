@@ -1,0 +1,1 @@
+xxbos xxmaj finally , a state transition module represents several communicating concurrent asynchronous state machines ( with maximum transition time dtrans ) .

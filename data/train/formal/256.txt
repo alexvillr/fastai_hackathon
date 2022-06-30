@@ -1,1 +1,1 @@
-She played Dolly Skilbeck in Emmerdale Farm from 1977 until 1980, when Jean Rogers took over the role.
+The rules have been implemented using the Java rule engine Drools [41].

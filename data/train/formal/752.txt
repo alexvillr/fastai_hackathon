@@ -1,1 +1,1 @@
-Six candidates contested the seat, which was won by Eruera Tirikatene.
+To prove the C∞ well-posedness of the Cauchy problem (1.1) in the form (4.1) we make use of the energyE(t,ξ)={|V(t,ξ)|2for t∈Aξ/|ξ|,ε and ξ/|ξ|∈X,〈Q(t,ξ)V(t,ξ),V(t,ξ)〉for t∈[a,b]∖Aξ/|ξ|,ε and ξ/|ξ|∈X, defined for t∈[a,b], ξ∈Rn with ξ/|ξ|∈X, and ε∈(0,e-1].

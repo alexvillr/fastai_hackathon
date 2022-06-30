@@ -1,0 +1,1 @@
+This mutation changed a highly conserved alanine into a valine (p.Ala181Val, Fig. 2C) and was predicted by Polyphen2 (http://genetics.bwh.harvard.edu/pph2/) and SIFT (http://sift.jcvi.org/) software to be "probably damaging" and "deleterious" respectively.

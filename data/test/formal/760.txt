@@ -1,0 +1,1 @@
+Since the LB and DB terms need to be updated using H,r1,r2,s1,s2 at the corresponding time step, an iteration is needed to achieve convergence, as suggested by Shi et al. (2012).

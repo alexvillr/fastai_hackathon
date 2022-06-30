@@ -1,0 +1,1 @@
+In this work the test case performed by Hamm (1992) related to the evolution in the above-mentioned tank of a monochromatic wave with a period T=1.25s and height H0=0.07m is numerically reproduced.

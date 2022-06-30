@@ -1,0 +1,1 @@
+Data were collected between 5 and 300K under fields of 1000Oe with points at 1K intervals from 5 to 30K and 5K intervals between 30 and 300K.

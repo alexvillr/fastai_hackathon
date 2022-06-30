@@ -1,0 +1,1 @@
+This gene encodes S6K2, a member of the S6 kinase family of serine/threonine kinases that has been shown to play an important role in both the PI3K/Akt and MEK/MAPK signaling pathways (Fenton and Gout, 2011), and is part of a coordinated network of differentially expressed genes, including GRN (Figure S4H).

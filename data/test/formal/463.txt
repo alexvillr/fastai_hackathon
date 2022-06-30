@@ -1,0 +1,1 @@
+We observe the similarities between content dissemination in opportunistic networks and in the related field of peer-to-peer (P2P) content dissemination and storage systems.

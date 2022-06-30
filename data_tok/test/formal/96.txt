@@ -1,0 +1,1 @@
+xxbos a xxmaj promela model produces a set of possible executions called execution traces or paths .

@@ -1,1 +1,1 @@
-It offers six Bachelor of Science degree programs, three of which are recognized by the Commission on Higher Education as a Center of Excellence in Chemistry, Biology (as of July 2, 2010), and Psychology.
+Besides, we also use the set-valued data generator to generate two artificial data sets 5-6 in order to test the efficiency of the proposed algorithms, which are also outlined in Table 5.

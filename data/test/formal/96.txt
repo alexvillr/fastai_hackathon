@@ -1,0 +1,1 @@
+A Promela model produces a set of possible executions called execution traces or paths.

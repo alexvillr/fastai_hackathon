@@ -1,1 +1,1 @@
-Chris Daughtry wrote the song with Chad Kroeger, Joey Moi, Eric Dill, and Rune Westberg, while Howard Benson handled the production.
+The next theorem, which corresponds to the faster first stabilization mechanism, essentially states that in an execution where n-f nodes already stabilized, any further non-faulty nodes recover quickly and deterministically, within O(α) time.

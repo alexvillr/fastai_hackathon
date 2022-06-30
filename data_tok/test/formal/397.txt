@@ -1,0 +1,1 @@
+xxbos xxmaj by [ 23 , xxmaj corollary 6 ] , the morphism s[[b1,b2, … ]]→s[[x]],bi↦(-1)pi-1p-1⋅xpi-1=(-1)i⋅xpi-1modp sends the total xxmaj steenrod operation ∑rpr⋅br to ∑jc(pj)⋅xj(p-1 ) .

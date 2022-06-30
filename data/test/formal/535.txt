@@ -1,0 +1,1 @@
+This fact can be easily proved directly, but we will give an alternative point of view based on a representation of the ring Int(Mn(Z)) as an intersection of pullbacks of Q[X], which turn out to be equal to a particular class of rings of integer-valued polynomials over algebraic integers.

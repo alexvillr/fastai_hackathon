@@ -1,0 +1,1 @@
+xxbos xxmaj as expected , xxmaj café [ 15 ] has the lowest cost of delivery across the three traces as it adaptively forwards to offload network hotspots in a delay - aware manner and does not include replication .

@@ -1,1 +1,1 @@
-xxbos xxmaj they have a boy xxmaj carter xxmaj devon xxmaj walker , born in xxmaj february 2014 .
+xxbos xxmaj when synchronizing clocks , one needs to face that clocks are not perfect and that it can not be exactly determined how much time it takes to communicate a clock reading .

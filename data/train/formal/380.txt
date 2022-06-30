@@ -1,1 +1,1 @@
-It is found in swamps and riparian habitats in central Chile and western Argentina.
+Fig. 6 illustrates how this change has an impact on speedup across a range of threads/core.

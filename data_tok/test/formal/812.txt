@@ -1,0 +1,1 @@
+xxbos xxmaj with this definition θ is a homomorphism : xxmaj obviously θ(e)=1b(cm ) for all e∈h0 , and if b∈h with t(a)=s(b ) and s(b)w1⁎⋯⁎wl∈z⁎(b ) is a rigid factorization of b into maximal integral elements , then s(a)u1⁎⋯⁎uk⁎w1⁎⋯⁎wl is a rigid factorization of ab . xxmaj thusθ(ab)=[η(u1)]⋅⋯⋅[η(uk)][η(w1)]⋅⋯⋅[η(wl)]=θ(a)θ(b ) .

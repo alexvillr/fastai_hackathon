@@ -1,0 +1,1 @@
+xxbos xxup u′ will be divided into r+1 partitions , such as : d={d1, … ,di , dnew , di+1, … ,dr } , where |d|=r+1,dnew={x̃ } .

@@ -1,0 +1,1 @@
+Therefore, our dataset with solid labels corresponding to diagnostic categories of the participants that have NH or HI enables us to make an objective evaluation of our algorithm, and demonstrate conclusively the feasibility of using machine learning in making automated diagnoses or prognoses based on imaging examinations.

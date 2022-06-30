@@ -1,0 +1,1 @@
+By inserting a bnc-splitter in the connection between the timing box and the PIV camera, the timing box was also connected to the frame-grabbing board of the LIF computer.

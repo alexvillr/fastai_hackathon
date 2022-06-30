@@ -1,0 +1,1 @@
+xxbos xxmaj basically it calculates the transit depth observed at xxmaj earth orbit by assuming that the planet and its atmosphere constitute a spherically symmetric obstacle with a density profile in hydrostatic equilibrium up to the sonic point ( when a sonic point exists ) .

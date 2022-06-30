@@ -1,0 +1,1 @@
+For example, in the data set for 9th August 2008 shown in Fig. 1, the data between 05:28 UT and 05:47 UT were interpreted as being from inside the ICB.

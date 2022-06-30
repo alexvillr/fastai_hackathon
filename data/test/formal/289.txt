@@ -1,0 +1,1 @@
+As the logic of the quick cycle is much simpler than that of the other state machines, it typically permits much tighter upper and lower bounds on this end-to-end delay.

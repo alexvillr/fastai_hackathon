@@ -1,1 +1,1 @@
-xxbos xxmaj frankenia laevis , commonly sea heath , is a low shrub in the family xxmaj frankeniaceae .
+xxbos xxmaj the only way to completely evade our cpr - based detection is to send all the attack packets using the xxup tcp congestion control mechanism , in other words , to make an lddos flow behave like a normal xxup tcp flow .

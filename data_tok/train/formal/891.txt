@@ -1,1 +1,1 @@
-xxbos 21 xxmaj cyclists participated in the contest .
+xxbos xxmaj assume first that u is transposable to v via c∈g+(e , f ) .

@@ -1,0 +1,1 @@
+xxbos a subset e of xxmaj rp is an efficient set if it has the property that , for all x and y in xxmaj rp , if x≫y then x and y are not both in xxup e.

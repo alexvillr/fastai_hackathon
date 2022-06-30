@@ -1,0 +1,1 @@
+This means thatAO=⋃i=1,…,k(±αi+Z) where O=Z[αi], i=1,…,k and αi±αj∉Z, ∀i≠j.

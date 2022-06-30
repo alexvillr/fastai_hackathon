@@ -1,1 +1,1 @@
-As the film is set in Australia, none of the scenes are filmed on the original set of the series.
+After transformations, three convolve filters were applied before the image was reverted back to cartesian co-ordination.

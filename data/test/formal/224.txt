@@ -1,0 +1,1 @@
+Define the subspace M⊂Mer(V) consisting of functions φ∈Mer(V) holomorphic out of the union of hyperplanes ⋃β∈Rˆ{x∈V|β(x)∈2πiZ}.

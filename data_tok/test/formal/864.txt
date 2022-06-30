@@ -1,0 +1,1 @@
+xxbos xxmaj since di⩾′=di⩾∪{x̃ } , then we have raδ⩾¯di⩾′=⋃x∈di⩾[x]aδ⩾′∪[x̃]aδ⩾.

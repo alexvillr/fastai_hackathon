@@ -1,0 +1,1 @@
+We can assume H⊂HD-1 and take j to be the inclusion map, and we call HD-1 the category of right fractions of H with respect to D.

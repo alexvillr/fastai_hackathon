@@ -1,0 +1,1 @@
+xxbos xxmaj in this case , six functions that have the same common prefix " hashtab " all perform operations on the hash table .

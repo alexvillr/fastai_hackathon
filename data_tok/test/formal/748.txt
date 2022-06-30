@@ -1,0 +1,1 @@
+xxbos xxmaj obviously , since upstream vcorot+vfdisturb≈a*vcorot < vcorot , the resonant energy where the total ( exb ) x - component drift is cancelled occurs at lower values as we get closer to the moon , and can reach values as low as 100kev .

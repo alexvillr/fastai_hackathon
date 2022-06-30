@@ -1,0 +1,1 @@
+xxbos xxmaj to estimate the emission line profile from xxup hd209458 , we fitted the solar c xxup ii 1335.7å line from the xxup sumer spectral atlas ( curdt et al . , 2001 ) with a xxmaj voigt function and adjusted the result to agree with observations ( linsky et al . , 2010 ) .

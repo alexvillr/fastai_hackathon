@@ -1,0 +1,1 @@
+xxbos xxmaj hence , the discriminant vanishes , and with σ=-2(ν+1)α - α2 - β24(ν+1 / 2 - α)=22ν+1 - 2αβ4(ν+1 / 2 - α)=β2ν+1 - 2α>0 we have xxmaj qα , β(s)=γ(s - σ)2 , where γ=2ν+1 - 2α>0 .

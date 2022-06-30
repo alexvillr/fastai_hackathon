@@ -1,0 +1,1 @@
+xxbos xxmaj in this section we outline how model checking can be applied for the debugging of real xxmaj java programs , as the motivation for the development of our tool .

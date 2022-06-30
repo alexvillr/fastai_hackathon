@@ -1,0 +1,1 @@
+Numerically, given that the number of revolutions is limited, at some point the criterion will be satisfied because it is close to the end of the simulation, but this is a numerical artifact.

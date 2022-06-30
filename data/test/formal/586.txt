@@ -1,0 +1,1 @@
+The spur length is chosen such that the majority of streamlines only intersect with two rows of turbines (Fig. 14c and d).

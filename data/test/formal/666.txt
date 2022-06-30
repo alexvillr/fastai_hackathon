@@ -1,0 +1,1 @@
+It is therefore relevant to discuss fault tolerance only with respect to the digital components: the communications infrastructure of the design.

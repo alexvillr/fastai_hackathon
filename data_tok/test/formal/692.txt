@@ -1,0 +1,1 @@
+xxbos xxmaj therefore , for all classical maximal xxmaj o′-orders xxup r′ and all g∈ca(o′)∖{0 } , there exists a maximal left xxmaj r′-ideal i with [ nr(i)]=g .

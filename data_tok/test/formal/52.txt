@@ -1,0 +1,1 @@
+xxbos xxmaj for non - faulty nodes , this is guaranteed in our implementation because the minimal amount of time an xxup hsm needs to complete a state transition is greater than the maximum end - to - end delay variation of the signals employed in the communication channel .

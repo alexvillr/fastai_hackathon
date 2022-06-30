@@ -1,1 +1,1 @@
-It has a rating system for brokers.
+The investigation here treats control strategies which operate without measurements of the wind speed and where the generator torque is determined from the rotational velocity of the turbine.

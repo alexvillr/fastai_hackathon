@@ -1,0 +1,1 @@
+Fig. 9 shows success ratios ranging from 77% to 60% for Infocom2006, from 67% to 50% for Sassy, and from 46% to 39% for SFCab.

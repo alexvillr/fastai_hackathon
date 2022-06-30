@@ -1,0 +1,1 @@
+Similarly, one can obtain the likelihood (Lx) that the average CPR of normal TCP flows is smaller than x.

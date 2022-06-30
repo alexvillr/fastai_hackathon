@@ -1,1 +1,1 @@
-In chemistry and mineralogy, an organic mineral is a mineral that contains carbon.
+Let us define the commutative family of elements Yλ for λ∈P∨:(2.14)Yλ=∏i=1n(Tτ(bi))mi,if λ=∑i=1nmibi,mi∈Z.

@@ -1,0 +1,1 @@
+The M7 model of K10 with a solar O/H ratio (Lodders, 2003) yields an O I transit depth of 3.9%, which is within 1.5σ of the observed value and therefore a satisfactory fit to the data.

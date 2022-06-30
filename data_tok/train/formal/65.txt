@@ -1,1 +1,1 @@
-xxbos xxmaj it has a rating system for brokers .
+xxbos xxmaj the investigation here treats control strategies which operate without measurements of the wind speed and where the generator torque is determined from the rotational velocity of the turbine .

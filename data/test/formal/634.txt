@@ -1,0 +1,1 @@
+Table 3 shows the mean, median and interquartile range of the lidar error due to the sampling rate for T=3600s over the 3993h of the data set.

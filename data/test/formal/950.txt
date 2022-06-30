@@ -1,0 +1,1 @@
+Simulations with aerodynamically independent turbines have indicated that a mutual DC-bus with passive rectification is a viable design choice unless the variations in wind speed are very large.

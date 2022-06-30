@@ -1,0 +1,1 @@
+Note that the transformations w∈W+ restricted to R0 respect the standard order.

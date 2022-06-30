@@ -1,0 +1,1 @@
+Restrict Eout to Eout′ on [t-+F,t+).

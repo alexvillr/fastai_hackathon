@@ -1,0 +1,1 @@
+Parts of the C II 1334.5Å line, on the other hand, are optically thick in the ISM and we took this into account in our models.

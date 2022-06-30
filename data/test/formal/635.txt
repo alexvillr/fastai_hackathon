@@ -1,0 +1,1 @@
+This loss in performance is not routinely accounted for in studies of the levelised cost of electricity (LCOE) of wind power.

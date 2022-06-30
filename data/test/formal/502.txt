@@ -1,0 +1,1 @@
+A weak viscous magnetization, possibly acquired during storage, was removed by fields lower than 10mT.

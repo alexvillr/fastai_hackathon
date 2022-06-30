@@ -1,0 +1,1 @@
+xxbos xxmaj when applying logarithmic scaling , the scaling parameters for cost - scaling and two - dimensional scaling are 0.05 and 0.1 , respectively .

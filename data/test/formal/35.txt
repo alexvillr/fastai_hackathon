@@ -1,0 +1,1 @@
+Isotropic images of the brain were acquired using an inversion recovery prepared rapid gradient-echo 3D method (MP-RAGE) covering the entire brain at a spatial resolution of 1×1×1mm in an axial orientation.

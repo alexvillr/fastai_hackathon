@@ -1,0 +1,1 @@
+Since Di⩾′=Di⩾∪{x̃}, then we have RAΔ⩾¯Di⩾′=⋃x∈Di⩾[x]AΔ⩾′∪[x̃]AΔ⩾.

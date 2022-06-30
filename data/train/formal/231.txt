@@ -1,1 +1,1 @@
-She is Professor of Sociology at the Cologne University of Applied Sciences, which is a Fachhochschule in Cologne, Germany.
+The generalized entropy metric and the information distance metric were proposed in [45] to detect LDDoS attacks.

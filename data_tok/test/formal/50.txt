@@ -1,0 +1,1 @@
+xxbos xxmaj here , the flow has the possibility to pass around the walls , and the fluid motion between the channel walls depends on the flow resistance of the turbine .

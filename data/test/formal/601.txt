@@ -1,0 +1,1 @@
+The velocity contribution (complex conjugated) from a vortex at position zj and with strength Γj in free flow is obtained at position z from(1)u(z)¯=-iΓj2π1z-zj,where the z and zj are complex numbers.

@@ -1,1 +1,1 @@
-It is a useful concept in understanding how sound waves scatter in a material which displays spatial inhomogeneity.
+Previous attempts were made by Leblanc et al. (2008), to compare UV observations of Martian aurora by SPICAM in its nadir orientation with in situ electron and ion measurements by MEX Analyzer of Space Plasmas and Energetic Atoms (ASPERA-3) Electron Spectrometer (ELS) and Ion Mass Analyzer (IMA) instruments and electron content as measured by the MEX MARSIS Radio Sounder.

@@ -1,0 +1,1 @@
+xxbos xxmaj it is interesting to see in xxmaj fig . 12 that xxup rr [ 38 ] has higher packet loss rates than cafrep despite xxup rr [ 38 ] tracking and adapting to the global packet loss congestion signals .

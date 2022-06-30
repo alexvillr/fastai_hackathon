@@ -1,1 +1,1 @@
-This article presents lists of the literary events and publications in 1738.
+Whereas L1-minimum norm methods have been used in previous MEG studies (Auranen et al., 2005; Osipova et al., 2005; Pulvermuller and Shtyrov, 2003), a major limitation with previous L1-minimum norm routines has been instability in spatial localization and poor smoothness in reconstructed source time-courses (i.e., the time-course of one specific grid point can show substantial spiky-looking discontinuities).

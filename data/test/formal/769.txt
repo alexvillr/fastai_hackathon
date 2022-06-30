@@ -1,0 +1,1 @@
+At the lowest locations on the beach (x=0.072m and x=0.772m), maximum depth is followed by a period of slowly-decreasing depth, which lasts approximately 3s for x=0.072m and approximately 2s for x=0.772m.

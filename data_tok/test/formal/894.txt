@@ -1,0 +1,1 @@
+xxbos xxmaj suppose f is not the identity function and let k∈zp such that f(k)≠k .

@@ -1,0 +1,1 @@
+xxbos xxmaj the simulations show that the three control strategies provide a similar power absorption as a reference strategy based on known wind speed .

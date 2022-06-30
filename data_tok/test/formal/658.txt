@@ -1,0 +1,1 @@
+xxbos xxmaj since the function xxmaj tif(x ) is continuous it vanishes on the whole plane : xxmaj tif(x)=0 , ∀x∈h(s′ ) .

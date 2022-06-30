@@ -1,1 +1,1 @@
-xxbos xxup cca , xxmaj manila has satellite campuses in xxmaj farmers xxmaj market , xxmaj cubao ; a xxmaj restaurant xxmaj school at xxup sm xxmaj mall of xxmaj asia called xxmaj oceana and at xxmaj eastwood xxmaj mall called xxup cca xxmaj kitchen .
+xxbos xxmaj each node is a collection of several state machines that are organized in a layered structure .

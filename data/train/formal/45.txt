@@ -1,1 +1,1 @@
-David Addison Haig (born 28 June 1958) is an Australian evolutionary biologist and geneticist, professor in Harvard Department of Organismic and Evolutionary Biology.
+It is well established (e.g. [37]) that ‖M‖2=σmax(M), where ‖M‖2 denotes the matrix 2-norm, which is defined for an m by n matrix M as (40)‖M‖2=supr∈Rn,‖r‖2=1‖Mr‖2.

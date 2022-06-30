@@ -1,1 +1,1 @@
-Carrstone (or carstone, also known as Silsoe and gingerbread) is a sedimentary sandstone conglomerate formed during the Cretaceous period.
+The bounds bl and bu are used to enforce that the turbines remain in a prescribed area (here assumed a rectangle for simplicity), while g(m) is used to enforce a minimum distance between any two turbines (e.g. as a multiple of the turbine diameter).

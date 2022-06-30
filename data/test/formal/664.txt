@@ -1,0 +1,1 @@
+Then, there exist two positive constants c1 and c2 depending only on the L∞-norm of the entries of N(t) such thatc1detN(t)|V|2⩽〈N(t)V,V〉⩽c2|V|2 holds for all t∈[a,b] and V∈Cm.

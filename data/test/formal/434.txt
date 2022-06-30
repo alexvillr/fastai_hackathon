@@ -1,0 +1,1 @@
+Published morphology maps for each CO2 layer (Bickle et al., 2007) are used as the topography for the base of each shale barrier, assuming a flat gas-water contact for the layers.

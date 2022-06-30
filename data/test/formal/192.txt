@@ -1,0 +1,1 @@
+Let R+ be a set of positive roots and Δ={α1,…,αn}⊂R+ be the set of simple roots.

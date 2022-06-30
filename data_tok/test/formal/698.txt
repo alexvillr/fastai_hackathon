@@ -1,0 +1,1 @@
+xxbos xxmaj section 6.2.3 ) any memory flag acts as an implicit synchronizer : xxmaj if a faulty node successfully induces metastability in the flag , this does not matter until the threshold can actually be reached .

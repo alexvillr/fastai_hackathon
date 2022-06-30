@@ -1,0 +1,1 @@
+It requires a dedicated core, namely the Monitor Processor, which is selected during the boot-up process from all the functional cores.

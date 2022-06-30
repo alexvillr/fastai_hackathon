@@ -1,1 +1,1 @@
-xxbos xxmaj they can be processed by a preprocessor to specify compiler behavior , or function as a form of in - band parameterization .
+xxbos xxmaj instead of sending continuous network traffic , an lddos attacker sends periodically pulsing data flows , which may dramatically reduce the average rate of attack flows .

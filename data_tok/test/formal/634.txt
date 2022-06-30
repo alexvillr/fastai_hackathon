@@ -1,0 +1,1 @@
+xxbos xxmaj table 3 shows the mean , median and interquartile range of the lidar error due to the sampling rate for xxmaj t=3600s over the 3993h of the data set .

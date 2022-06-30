@@ -1,0 +1,1 @@
+In our 8-node prototype implementation, the compound algorithm generates 8-bit clocks that in all runs stabilized within 1.9⋅106d time (where d is the maximal end-to-end communication delay).

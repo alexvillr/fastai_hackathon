@@ -1,0 +1,1 @@
+Finally, the index of the kernel of the homomorphism of Gn or G onto H is the order of H which is p!(p-1)p. □

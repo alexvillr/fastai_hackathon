@@ -1,0 +1,1 @@
+By [23, Corollary 6], the morphism S[[b1,b2,…]]→S[[x]],bi↦(-1)pi-1p-1⋅xpi-1=(-1)i⋅xpi-1modp sends the total Steenrod operation ∑RPR⋅bR to ∑jc(Pj)⋅xj(p-1).

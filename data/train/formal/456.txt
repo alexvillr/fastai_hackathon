@@ -1,1 +1,1 @@
-Larderello is a frazione of the comune of Pomarance, in Tuscany in central Italy.
+Hash functions are prone to hash collision which in our approach can cause clustering errors.

@@ -1,0 +1,1 @@
+xxbos xxmaj more specifically , for xxup dtn forwarding algorithms traffic latency is a key concern , as the freshness of data is important and it is persistently challenged by disconnections and congestion of intermediaries that prevent efficient store - carry - and - forward routing .

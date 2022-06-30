@@ -1,0 +1,1 @@
+In this case TeG is spanned by a single vector v.

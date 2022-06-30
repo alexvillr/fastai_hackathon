@@ -1,0 +1,1 @@
+xxbos xxmaj when the message type has been selected the message size can be assigned based on the relevant statistics .

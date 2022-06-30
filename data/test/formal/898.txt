@@ -1,0 +1,1 @@
+First we added bromine chemistry (see Appendix A) to the model of Catling et al. (2010) for the terrestrial atmosphere.

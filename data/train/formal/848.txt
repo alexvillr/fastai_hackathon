@@ -1,1 +1,1 @@
-The red porgy (Pagrus pagrus), or common seabream, is a species of fish in the family Sparidae.
+We have|θ(s,ζ)|⩽|h(ζ)||f(h(ζ),ζ)+s+sζ⋅b(s,ζ)|+s|ζ||a(s,ζ)||f(h(ζ),ζ)+s+sζ⋅b(s,ζ)|=θ1(s,ζ)+θ2(s,ζ).

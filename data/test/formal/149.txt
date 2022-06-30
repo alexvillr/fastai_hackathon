@@ -1,0 +1,1 @@
+Let X be a variety over a field k of characteristic ≠p . Let F/k be a perfect closure.

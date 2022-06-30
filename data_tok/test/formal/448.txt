@@ -1,0 +1,1 @@
+xxbos xxmaj if h is a maximal order , then every order xxup h′ with xxup h′∼h is contained in a maximal order equivalent to xxup h.

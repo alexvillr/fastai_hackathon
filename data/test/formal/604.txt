@@ -1,0 +1,1 @@
+Along this plane, the 3D FTLE can be approximated with a reduced Cauchy-Green tensor using only trajectories initialized on the plane, effectively neglecting normal gradients.

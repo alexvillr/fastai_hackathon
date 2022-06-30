@@ -1,1 +1,1 @@
-Jacobs is a specialist in the molecular genetics of Mycobacteria.
+Two scenarios with identical geometry were tested by varying the threshold pressure of the shales within Utsira Formation: the first, a base case, assumed that the threshold pressure of approximately 1.6-1.9MPa measured in core recovered from Lower Seal shales (Springer and Lindgren, 2006) is applicable to all shale barriers within the model.

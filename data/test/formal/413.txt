@@ -1,0 +1,1 @@
+If the reason for the lower wind speed of one turbine is that it is in the wake of another, decreasing the rotational velocity of the upstream turbine will decrease its power absorption (if it was running at optimal rotational velocity before), but will at the same time leave more energy for the turbine downstream.

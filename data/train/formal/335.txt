@@ -1,1 +1,1 @@
-HP Operations Manager is a System monitoring package manufactured by Hewlett-Packard (HP).
+The responses of four typical pilot samples (from GP4) to AF demagnetization are shown as orthogonal plots and intensity diagrams in Fig. 5.

@@ -1,0 +1,1 @@
+Using this equation violates the conservation of electric charge at the upper boundary because the small mass of the electrons causes their velocity to be much larger than the velocity of the protons.

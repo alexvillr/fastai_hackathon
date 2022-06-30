@@ -1,0 +1,1 @@
+xxbos xxmaj this mutation changed a highly conserved alanine into a valine ( p.ala181val , xxmaj fig . 2c ) and was predicted by xxmaj polyphen2 ( http : / / genetics.bwh.harvard.edu / pph2 / ) and xxup sift ( http : / / sift.jcvi.org / ) software to be " probably damaging " and " deleterious " respectively .

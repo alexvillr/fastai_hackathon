@@ -1,0 +1,1 @@
+xxbos xxmaj both topologies can support up to 8,192 random link failures without any of the nodes losing connectivity with the rest of the system , more than one order of magnitude above ( fday ) .

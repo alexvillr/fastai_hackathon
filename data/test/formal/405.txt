@@ -1,0 +1,1 @@
+The gradients of the fits to the experimental data for both defects for a large number of p-type samples were normalised by the high injection (X→1) limits and were plotted against 1/p0 according to Eq.

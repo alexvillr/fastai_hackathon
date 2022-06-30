@@ -1,0 +1,1 @@
+Section 4 introduces multi-good pillage games and applies the above results to bound their stable sets.

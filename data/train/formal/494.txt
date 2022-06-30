@@ -1,1 +1,1 @@
-He has been described as "probably the first Papua New Guinean music personality to receive attention from a wide public".
+Given any algebraic integer α of degree n and f(X) any polynomial with rational coefficients, f(α) belongs to Q(α) and in particular its degree is less than or equal to n.

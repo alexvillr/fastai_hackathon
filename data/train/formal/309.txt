@@ -1,1 +1,1 @@
-The Utah Jazz' Dan Roberts provides the arena announcing.
+Furthermore, the load current is always kept positive, i.e. the grid is never used to charge the capacitor.

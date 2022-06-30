@@ -1,0 +1,1 @@
+Oligonucleotide sequences designed for LYRM4 (NM_020408.4) and FARS2 (NM_006567.3) gene analysis.

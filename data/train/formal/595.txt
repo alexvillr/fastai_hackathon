@@ -1,1 +1,1 @@
-Bisarbhora is a village development committee in Dhanusa District in the Janakpur Zone of south-eastern Nepal.
+[f]p2=[g]p2 is equivalent to: f0=g0 mod p2Z[x] and f1=g1 mod pZ[x].

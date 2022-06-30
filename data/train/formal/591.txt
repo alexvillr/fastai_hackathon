@@ -1,1 +1,1 @@
-Jan Friis-Mikkelsen (born 26 February 1963) is a Danish chef and restaurateur.
+Considering the severe fault model, we conclude that despite not being optimal, our algorithm performs satisfactory with respect to this quality measure.

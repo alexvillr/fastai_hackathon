@@ -1,1 +1,1 @@
-Currently the school is managed under the management of Little Angels School Kathmandu.
+The lower boundary of the model is at 1μbar and thus the model does not include molecular chemistry.

@@ -1,0 +1,1 @@
+The index of In in Z[x] is pβ(1)+β(2)+β(3)+⋯+β(n) by Corollary 2.4(2) and [Z[x]:In]<[Z[x]:Jn] if and only if n>p by Fact 2.1(2). □

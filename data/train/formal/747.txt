@@ -1,1 +1,1 @@
-It took place in Palermo, Italy between 21 and 27 September 2009.
+To compare the same channel widths as in the increased solidity case, 19% improvement is obtained with a channel width of 8 diameters, 48% improvement is obtained with a width of 4 diameters and 153% improvement is obtained with a width of 2 diameters.

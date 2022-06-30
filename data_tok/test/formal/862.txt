@@ -1,0 +1,1 @@
+xxbos xxmaj the first visualization , the xxmaj monotone xxmaj slice - size xxmaj graph ( msg ) ( binkley and xxmaj harman , 2005 ) , plots a landscape of monotonically increasing slice sizes where the y - axis shows the size of each slice , as a percentage of the entire program , and the x - axis shows each slice , in monotonically increasing order of slice size .

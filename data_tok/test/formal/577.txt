@@ -1,0 +1,1 @@
+xxbos xxmaj the figure also demonstrates the capability of xxup fatal+ to generate pulses with significantly less skew ( 1 μs ) on top of the xxup fatal pulses with worst - case skew .

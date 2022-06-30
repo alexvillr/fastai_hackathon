@@ -1,1 +1,1 @@
-The body is very pale brown.
+The amount of demand for a resource X at a time t is given by: DXt=∑S≠X∈V∑D≠X∈VFSDt(X)where FSDt(X) denotes the number of paths between source node S and destination D that contains the resource X at time t.

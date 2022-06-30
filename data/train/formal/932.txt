@@ -1,1 +1,1 @@
-He previously played in NPB for the Tohoku Rakuten Golden Eagles, and has also played in Major League Baseball (MLB) for the Chicago Cubs, Milwaukee Brewers, Pittsburgh Pirates, New York Yankees, Miami Marlins, San Francisco Giants, and Detroit Tigers.
+(Clock) Clock C is correct at all times, i.e., t′-t⩽C(t′)-C(t)⩽ϑ(t′-t) for all t,t′∈R, t<t′.

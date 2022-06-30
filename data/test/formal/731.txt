@@ -1,0 +1,1 @@
+The group of units of E has the formH={(f,f′)|f:Zp→Zp bijective,f′:Zp→Zp∖{0}}.

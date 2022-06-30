@@ -1,0 +1,1 @@
+xxbos a set b of two nodes with fast clock sources .

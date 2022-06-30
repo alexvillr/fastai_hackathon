@@ -1,0 +1,1 @@
+The most common forms of the standard Boussinesq equations include the lowest order of both frequency dispersion and non-linearities and are able to adequately represent wave phenomena only in a range of values of the water depth, h0, to deep water wave length, L0, ratio up to 0.2.

@@ -1,0 +1,1 @@
+xxbos xxmaj fig . 13c shows the cost of delivery that we define as the number of messages forwarded over the number of messages delivered across six protocols and over the three traces .

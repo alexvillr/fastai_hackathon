@@ -1,0 +1,1 @@
+We obtain a presheaf of commutative rings CH on V ar/k, in which Chern classes of vector bundles take their values [9, Proposition 17.3.2].

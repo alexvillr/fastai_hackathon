@@ -1,1 +1,1 @@
-A preview mode showed the formatted layout but Protext did not display the fonts on screen.
+For simplicity's sake we fit a linear trend to these effects, which falls from 28.5% at age 1 to the national average load factor of 26.3% for farms at the national average age (5.9 years), reaching 21.0% for the oldest farms aged 19.

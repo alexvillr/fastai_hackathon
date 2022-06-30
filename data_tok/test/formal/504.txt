@@ -1,0 +1,1 @@
+xxbos xxmaj due to the cubic dependence of the power extraction on the speed , the power per turbine is approximately doubled in the 128 turbine case , and so the total power extraction of the two cases is almost the same .

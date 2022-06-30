@@ -1,0 +1,1 @@
+the Levi condition(3.4)|(qimbj-bi¯qjm)(t,ξ)|⩽cΔ(t,ξ) holds for all 1⩽i,j⩽m, t∈[a,b] and |ξ|⩾1.

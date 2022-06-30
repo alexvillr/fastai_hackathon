@@ -1,1 +1,1 @@
-Lowther graduated from the University of Southern California in 2008.
+The only restriction is that transient faults do not affect the non-volatile memory (and in particular not the algorithm itself), as this would induce a permanent fault.

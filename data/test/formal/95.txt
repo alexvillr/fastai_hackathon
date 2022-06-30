@@ -1,0 +1,1 @@
+Table 3 shows that under DropTail, the CPR-based approach may not be able to distinguish an LDDoS attack flow from a normal TCP flow since the two CPRs are close to one another.

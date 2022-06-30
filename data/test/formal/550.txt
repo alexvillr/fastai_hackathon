@@ -1,0 +1,1 @@
+For all e∈G0 the set G(e) is a group, called the vertex group or isotropy group of G at e.

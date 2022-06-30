@@ -1,0 +1,1 @@
+Let ν≥-1 . Then the elements of {Gα,βν♭(α):ν≤α≤αν♭} are mutually incomparable.

@@ -1,0 +1,1 @@
+Node i also loops back its own state to itself on a channel.

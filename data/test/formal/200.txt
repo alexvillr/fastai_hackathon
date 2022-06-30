@@ -1,0 +1,1 @@
+Diurnally-averaged temperatures at the peak ionospheric density level (10-5mbar) and latitude 78° from simulations R1-R18 (Table 1) are shown in the upper panel of Fig. 12 as a function of 10keV electron energy flux and peak electric field strength.

@@ -1,0 +1,1 @@
+It solved the vertical equations of continuity, momentum, and energy for an escaping atmosphere, including photochemistry in the ionosphere and transfer of stellar XUV radiation.

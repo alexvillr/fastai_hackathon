@@ -1,0 +1,1 @@
+xxbos xxmaj all of these models capture particular capabilities and properties of the respective target machines , namely shared memory machines or distributed memory machines .

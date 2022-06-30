@@ -1,0 +1,1 @@
+Forchheimer coefficients and hydraulic conductivity were extracted from this dataset.

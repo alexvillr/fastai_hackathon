@@ -1,1 +1,1 @@
-xxbos xxmaj it was first described by author xxmaj speggazini xxmaj singer in 1950 .
+xxbos xxmaj in this case , the algorithms should perform well under all settings of parameters , allowing us to apply the model at any two levels and get the same results .

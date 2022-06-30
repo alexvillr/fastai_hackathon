@@ -1,0 +1,1 @@
+Let O be a holomorphy ring in a global field K, and R a classical maximal O-order in a central simple algebra over K.

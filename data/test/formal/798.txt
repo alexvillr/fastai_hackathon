@@ -1,0 +1,1 @@
+Algorithm 3 is an incremental algorithm for updating approximations in SOIS while inserting an object into the universe.

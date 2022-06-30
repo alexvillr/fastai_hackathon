@@ -1,0 +1,1 @@
+xxbos xxmaj attack xxmaj frequency xxmaj intensification ( afi ) lddos attack(n>0 , g = n , m=1 , σ = ta / g )

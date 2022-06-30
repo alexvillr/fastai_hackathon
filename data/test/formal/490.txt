@@ -1,0 +1,1 @@
+Fig. 11 shows the circuitry used for communicating the current state of the main algorithm in Fig. 8.

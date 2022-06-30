@@ -1,0 +1,1 @@
+We observed that a pristine silicon wafer sample shows root mean square roughness SRMS of 2.4±0.3nm while a sputter coated wafer with gold-palladium reflective film shows SRMS of 1.96±0.2nm, and the peak-to-valley roughnesses are 16±2.30nm and 13.6±1.6nm respectively.

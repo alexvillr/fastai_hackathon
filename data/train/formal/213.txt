@@ -1,1 +1,1 @@
-It was started in 1958 by Raymond Chandler, who left it unfinished at his death in 1959.
+The delay deviation at the representative delay d0 on Copt(d), denoted as DD(d0), is min {d|C(d)≤Copt(d0)}-d0.

@@ -1,0 +1,1 @@
+xxbos xxmaj they self - consistently calculated the ionisation rates and used these as input to the ionospheric model of xxmaj moore et al . ( 2010 ) to infer the resulting profiles of ion and electron densities .

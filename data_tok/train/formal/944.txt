@@ -1,1 +1,1 @@
-xxbos xxmaj the loss or addition of the double " n " may imply many things .
+xxbos xxmaj the simple roots are α1 = e2 - e3 , α2 = e3 - e4 , α3 = e4 and α4=12(e1 - e2 - e3 - e4 ) .

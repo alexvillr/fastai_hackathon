@@ -1,1 +1,1 @@
-The group's first round of matches were played on 10 January, the second round on 14 January, and the final round on 18 January.
+Dirichlet boundary conditions on the left and right boundaries enforced the following sinusoidal in-/outflow velocity:u(x,y,t)=(-2sin(2πt/P)0).

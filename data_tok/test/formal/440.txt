@@ -1,0 +1,1 @@
+xxbos xxmaj if n is the degree of k over q and xxup o⊆ok is an order , we denote by xxmaj on the set of elements of o of degree n , thus on≑{α∈o|q(α)=k } .

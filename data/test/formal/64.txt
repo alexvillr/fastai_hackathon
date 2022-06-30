@@ -1,0 +1,1 @@
+Globally, hierarchical clustering analysis demonstrated that hiPSCs are highly similar to hESCs, but distinctively different from somatic cells (Figure 1A).

@@ -1,0 +1,1 @@
+xxbos xxmaj table 3 shows that under droptail , the cpr - based approach may not be able to distinguish an lddos attack flow from a normal xxup tcp flow since the two cprs are close to one another .

@@ -1,0 +1,1 @@
+The main difference is related to the polar 'hotspot' which is considerably cooler (peak temperature of ~590K) than that for case CS (peak temperature ~705K).

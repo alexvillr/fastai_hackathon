@@ -1,1 +1,1 @@
-xxbos xxmaj the term flying fox is xxmaj australian xxmaj english and xxmaj new xxmaj zealand xxmaj english .
+xxbos xxmaj for λ∈v denote by τ(λ ) the shift operator τ(λ)x = x+ℏλ , ∀x∈v .

@@ -1,1 +1,1 @@
-xxbos xxmaj the name xxmaj inchcailloch means " isle of the old woman " or " isle of the xxmaj cowled ( hooded ) xxmaj woman " in the xxmaj scottish xxmaj gaelic language .
+xxbos xxmaj for this empirical study , the class of defaulters in each of the training data sets was artificially reduced , by a factor of 5 % up to 95 % then by 2.5 % and 1 % , so as to create a larger difference in class distribution .

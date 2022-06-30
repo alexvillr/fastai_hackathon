@@ -1,0 +1,1 @@
+As in the previous sections XY={xy|x∈X,y∈Y}.

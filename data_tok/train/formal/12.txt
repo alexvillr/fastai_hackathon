@@ -1,1 +1,1 @@
-xxbos xxmaj the episode originally aired on the xxmaj national xxmaj broadcasting xxmaj company ( nbc ) network in the xxmaj united xxmaj states on xxmaj may 5 , 2011 .
+xxbos xxmaj finally , we concatenated the vectors from the three contrast maps , and obtained a 1474 - dimension vector for each subject .

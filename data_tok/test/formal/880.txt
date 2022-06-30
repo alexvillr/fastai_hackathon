@@ -1,0 +1,1 @@
+xxbos xxmaj the cohomological ( i.e. usual ) xxmaj chern character [ 9 , xxmaj example 3.2.3 ] is a morphism of presheaves of rings on v ar / kch : k0(-)→ch(-)q .

@@ -1,0 +1,1 @@
+(Keep in mind however that ⩽ need not be a partial order on the entire set G, and ∧ and ∨ do not represent meet and join operations on the entire set G in the order-theoretic sense.)

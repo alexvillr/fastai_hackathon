@@ -1,1 +1,1 @@
-Jackson Township is a township in Perry County, Pennsylvania, United States.
+The state of the Büchi automaton, which is used to track the satisfaction of an LTL property, is also stored as part of the global state.

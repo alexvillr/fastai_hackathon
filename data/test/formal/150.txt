@@ -1,0 +1,1 @@
+It follows that, in the example of the Heisenberg group (see Section 1.4), there cannot be any subgroup contained in {(0,z)} of dimension bigger than n.

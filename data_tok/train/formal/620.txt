@@ -1,1 +1,1 @@
-xxbos xxmaj microdon manitobensis is a species of syrphid fly in the family xxmaj syrphidae .
+xxbos xxmaj the code is automatically generated using an initial xxmaj promela template and the information provided by the user in the correctness specification file ( see xxmaj fig . 6 ) .

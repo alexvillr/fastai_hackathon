@@ -1,0 +1,1 @@
+xxbos xxmaj let xxup lν={(α , β):gα , β≤rν},uν={(α , β):gα , β≥rν } be the set of all ( α , β ) for which xxup gα , β is a lower / upper xxmaj amos - type bound for xxup rν , and write xxup glν={gα , β:(α , β)∈lν},guν={gα , β:(α , β)∈uν } , for the corresponding families of lower / upper xxmaj amos - type bounds for xxup rν .

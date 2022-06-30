@@ -1,1 +1,1 @@
-The episode originally aired on the National Broadcasting Company (NBC) network in the United States on May 5, 2011.
+Finally, we concatenated the vectors from the three contrast maps, and obtained a 1474-dimension vector for each subject.

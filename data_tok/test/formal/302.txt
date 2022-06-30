@@ -1,0 +1,1 @@
+xxbos xxmaj again , this result is not affected by the folding in the projection thanks to the limit , which covers the detection of cycles in ( otherwise ) folded states .

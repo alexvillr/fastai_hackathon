@@ -1,1 +1,1 @@
-A fixed liabilities are a debts.
+Let G be a unimodular Lie group, X a compact manifold with boundary, and M the total space of a principal bundle G→M→X so that M is also a strongly pseudoconvex complex manifold.

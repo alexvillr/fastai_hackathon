@@ -1,0 +1,1 @@
+Clearly, the lower bound is equivalent to Rν>Gν+1/2,ν+3/2 for ν≥-1, and the upper bound to Rν(t)<tν+1+(ν+1)2+t2(ν+1)/(ν+2) for t>0 and ν≥-1, which is weaker than the upper bound Rν<Gν,ν+2.

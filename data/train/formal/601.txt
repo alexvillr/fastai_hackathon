@@ -1,1 +1,1 @@
-HR/H ratio has gotten higher over time.
+We have, by [9, Example 18.3.1] (and [9, Theorem 18.3, (5)]) chd+e-i(p-1)(a×b)=∑u=0i(p-1)chd-u(a)×che+u-i(p-1)(b).

@@ -1,0 +1,1 @@
+The ANOVA of peak latencies also revealed significant differences between the three groups, with the patient groups having later peaks than the controls (F(2,57)=3.4, p=0.037) but there were no interactions with deviant type, nor with dipole location (All F<1.7).

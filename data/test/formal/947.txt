@@ -1,0 +1,1 @@
+As far as we know, there are only three active projects comparable to SpiNNaker in terms of simulation scale.

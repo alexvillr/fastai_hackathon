@@ -1,0 +1,1 @@
+The simulations are carried out on three different computational grids: a Cartesian grid with Δx=0.05m and Δy=0.075m, a highly distorted grid obtained by deforming the above-mentioned Cartesian grid following the procedure proposed by Visbal and Gaitonde (2002) (see Fig. 18) and a curvilinear boundary conforming grid (see Fig. 19).

@@ -1,1 +1,1 @@
-Those attributes with a higher impact on CQAs should be prioritized and held in a stricter state of control.
+We have x1∈D2⩾,K′=⋃x∈D2⩾-{x1}[x]CΔ⩾={x2,x3,x4,x5,x6}.

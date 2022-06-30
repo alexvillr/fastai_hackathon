@@ -1,0 +1,1 @@
+Garth et al. [24] compared this planar approximation with the full 3D rendering of FTLE fields and reported that the fields agreed quite well.

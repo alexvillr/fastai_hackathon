@@ -1,1 +1,1 @@
-Twyman is often cited for his works on the history of printing and ephemera, especially lithography.
+By Lemma 5, this is the case iff t solves Qα,β∗(t2+β∗2)=0, from which we infer that t=tν∗(α) is uniquely determined and continuous as a function of α.

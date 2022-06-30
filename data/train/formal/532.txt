@@ -1,1 +1,1 @@
-Lovell is currently represented by DC Moore Gallery, New York City, NY.
+If G is a group (i.e., |G0|=1), then G is the free abelian group with basis A(G+), and G+ is the free abelian monoid with basis A(G+).

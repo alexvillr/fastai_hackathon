@@ -1,0 +1,1 @@
+Then, ∀x∈Di⩾′, if x̃∈[x]AΔ⩾, then [x]AΔ⩾′=[x]AΔ⩾∪{x̃}.

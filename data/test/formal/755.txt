@@ -1,0 +1,1 @@
+Neutral species undergo primary ionisation by solar EUV photons, assuming the solar spectra specified above.

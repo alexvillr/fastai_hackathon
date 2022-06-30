@@ -1,0 +1,1 @@
+xxbos xxmaj writing z(ξ ) for ( ξ , g1(ξ),g2(ξ ) ) , a parametrization of o is thus given byrm∋ξ→p(ξ)=(h(ξ),f(h(ξ),z(ξ)),z(ξ))∈cn+1(rez0,imz0,z ) .

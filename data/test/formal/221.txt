@@ -1,0 +1,1 @@
+The System Controller supports soft and hard resets of the different components within a chip and also communicates with the System Controller in neighbouring chips.

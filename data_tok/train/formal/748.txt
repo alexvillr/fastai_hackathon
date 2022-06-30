@@ -1,1 +1,1 @@
-xxbos xxmaj the body is very pale brown .
+xxbos xxmaj the amount of demand for a resource x at a time t is given by : dxt=∑s≠x∈v∑d≠x∈vfsdt(x)where fsdt(x ) denotes the number of paths between source node s and destination d that contains the resource x at time t.

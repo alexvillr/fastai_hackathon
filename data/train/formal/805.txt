@@ -1,1 +1,1 @@
-The race has increased in length several times since then.
+A⊆C,∀Di⩾(1⩽i⩽r), the lower and upper approximations of Di⩾ with respect to the dominance relation RAΔ⩾(Δ∈{∧,∨}) are defined respectively as follows:(3)RAΔ⩾̲Di⩾=x∈U|[x]AΔ⩾⊆Di⩾,(4)RAΔ⩾¯Di⩾=⋃x∈Di⩾[x]AΔ⩾.Analogously, ∀Di⩽(1⩽i⩽r), the lower and upper approximations of Di⩽ are defined as:(5)RAΔ⩾̲Di⩽=x∈U|[x]AΔ⩽⊆Di⩽,(6)RAΔ⩾¯Di⩽=⋃x∈Di⩽[x]AΔ⩽.

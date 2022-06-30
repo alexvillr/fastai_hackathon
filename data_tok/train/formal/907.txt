@@ -1,1 +1,1 @@
-xxbos xxmaj in 1989 , he received a government grant to study certain aspects of xxmaj inuit culture .
+xxbos xxmaj repeated random experiments are controlled via a xxmaj python script executed at a xxup pc workstation , which is connected via xxup usb to an atmega 16 microcontroller ( μc ) that acts as a scan - controller towards the xxup fpga .

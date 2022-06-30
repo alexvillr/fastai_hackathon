@@ -1,1 +1,1 @@
-It has the relatively lower albedo that is characteristic of resurfacing by flows of basaltic lava, although it is not nearly as dark as the floor of Tsiolkovskiy.
+Consider the restriction of the first product in the expression (5.20) which is taken over i,j∈Jb\Jb+1.

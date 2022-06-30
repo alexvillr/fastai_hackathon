@@ -1,0 +1,1 @@
+It follows that θ1(s,ζ)→0 for (s,ζ)→0.

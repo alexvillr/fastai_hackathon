@@ -1,1 +1,1 @@
-On January 4, 2013, a new trademark application was filed but there have been no new comments by Ubisoft.
+We randomly select traffic profiles for the nodes to follow and simulate multiple runs with different random traffic profiles.

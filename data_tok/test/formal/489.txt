@@ -1,0 +1,1 @@
+xxbos xxmaj let f be an xxup ltl formula and let us denote the set of variables in f as var(f ) .

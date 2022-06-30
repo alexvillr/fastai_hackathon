@@ -1,0 +1,1 @@
+xxbos xxmaj we take k to be the vertical unit vector , so the velocity components are ( 19a)u=-∂ψ∂y+∂2φ∂z∂x,(19b)v=∂ψ∂x+∂2φ∂z∂y,(19c)w=-∇h2φ , where ∇h2 is the xxmaj laplacian with respect to the horizontal coordinates , i.e. , ( 20)∇h2=∂∂x2+∂∂y2.ψ and φ are solutions to xxmaj helmholtz equations with xxmaj dirichlet and xxmaj neumann boundary conditions , respectively .

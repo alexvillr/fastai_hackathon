@@ -1,0 +1,1 @@
+When x¯∉Di⩾ is deleted from U, for RAΔ⩾̲Di⩾′, we haveRAΔ⩾̲Di⩾′=RAΔ⩾̲Di⩾∪Kwhere K=x|x∈Di⩾-RAΔ⩾̲Di⩾,Di⩾⊇[x]AΔ⩾′.

@@ -1,0 +1,1 @@
+We take k to be the vertical unit vector, so the velocity components are (19a)u=-∂Ψ∂y+∂2Φ∂z∂x,(19b)v=∂Ψ∂x+∂2Φ∂z∂y,(19c)w=-∇h2Φ, where ∇h2 is the Laplacian with respect to the horizontal coordinates, i.e., (20)∇h2=∂∂x2+∂∂y2.Ψ and Φ are solutions to Helmholtz equations with Dirichlet and Neumann boundary conditions, respectively.

@@ -1,0 +1,1 @@
+Note that we do not have a parameter for the number of core groups, that quantity is simply P/Q.

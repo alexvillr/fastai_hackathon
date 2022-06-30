@@ -1,0 +1,1 @@
+Each table entry can be deactivated independently if not functioning properly; there is therefore some flexibility (potential redundancy) in the way table entries are used.

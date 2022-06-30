@@ -1,1 +1,1 @@
-Banks also released music videos for every song, including the non-singles "1991" and "Van Vogue".
+A precision of 1.00 (US=UH) means the hash function is 100% accurate (i.e., it produces a unique hash value for every distinct slice) whereas a precision of 1/US means that the hash function produces the same hash value for every slice leaving UH=1.

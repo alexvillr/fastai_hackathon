@@ -1,0 +1,1 @@
+Given such an order O⊆OK, we consider the setAO≑{α∈O|Z[α]=O}.

@@ -1,1 +1,1 @@
-He moved to Western Australia in the 1980s to work in the mining and gas industry in the north of Western Australia.
+A node switches, for example, from state ready to state propose if the condition next to the arrow is satisfied.

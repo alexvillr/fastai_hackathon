@@ -1,0 +1,1 @@
+With this definition θ is a homomorphism: Obviously θ(e)=1B(CM) for all e∈H0, and if b∈H with t(a)=s(b) and s(b)w1⁎⋯⁎wl∈Z⁎(b) is a rigid factorization of b into maximal integral elements, then s(a)u1⁎⋯⁎uk⁎w1⁎⋯⁎wl is a rigid factorization of ab. Thusθ(ab)=[η(u1)]⋅⋯⋅[η(uk)][η(w1)]⋅⋯⋅[η(wl)]=θ(a)θ(b).

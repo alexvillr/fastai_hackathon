@@ -1,0 +1,1 @@
+xxbos xxmaj smith and xxmaj aylward ( 2008 ) developed a simple model of xxmaj saturn 's coupled thermosphere - ionosphere - magnetosphere which considered the feedback from atmosphere to magnetosphere , but assumed a constant ionosphere which did not change in response to thermospheric and magnetospheric conditions .

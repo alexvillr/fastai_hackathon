@@ -1,0 +1,1 @@
+In the C1 model, XH decreases with altitude, and above 11.4Rp it has values of less than 3.

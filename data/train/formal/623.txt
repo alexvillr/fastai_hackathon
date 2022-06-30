@@ -1,1 +1,1 @@
-It was described by Hans Georg Amsel in 1938.
+The action of the group Wˆ on V induces the following linear action on the space Vˆ:(2.3)wτ(λ)(α)=[w(α(1)),α(0)-ℏ(α(1),λ)], where w∈W, λ∈P∨, α=[α(1),α(0)].

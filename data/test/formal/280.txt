@@ -1,0 +1,1 @@
+Likewise, the index of the intersection of all Sylow p-subgroups of G in G is p!(p-1)p.

@@ -1,0 +1,1 @@
+To merge those similar ROIs into one single feature, we performed a hierarchical clustering with average linkage (Johnson, 1967).

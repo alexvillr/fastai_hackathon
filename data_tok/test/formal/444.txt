@@ -1,0 +1,1 @@
+xxbos xxmaj request ( c , d ) can be supported by a path with the qos parameter ( c′,d′ ) , where c′≤c and d′≤d .

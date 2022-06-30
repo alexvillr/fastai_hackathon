@@ -1,1 +1,1 @@
-xxbos xxmaj it is based on a 1993 novel with the same name by xxmaj vernon xxmaj coleman .
+xxbos xxmaj the final condition that we want to check deals with thread scheduling and fairness .

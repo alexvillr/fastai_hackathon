@@ -1,0 +1,1 @@
+To start with, the line-integrated H Lyman α transit depth of 6.6±2.3% (Ben-Jaffel and Hosseini, 2010) is consistent with a 6% transit depth at 1215.2Å (a Doppler shift of -120kms-1 from the line core) i.e., the blue peak of the observed line profile (Fig. 5 of K10).

@@ -1,0 +1,1 @@
+A gradient and curvature drift component towards -x resulting from gradient and curvature of B from Saturn's dipole field.

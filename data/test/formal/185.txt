@@ -1,0 +1,1 @@
+The counter projection abstracts the Java state by preserving the variables which appear in the LTL formula and adding a counter to distinguish the rest of the state.

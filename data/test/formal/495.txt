@@ -1,0 +1,1 @@
+It is the Smith and Aylward (2009) modified GCM that we use in this study.

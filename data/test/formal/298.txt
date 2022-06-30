@@ -1,0 +1,1 @@
+Column 10 shows the time needed to build the SDG and CodeSurfer project that is subsequently used for slicing.

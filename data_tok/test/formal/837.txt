@@ -1,0 +1,1 @@
+xxbos xxmaj condition ( 2 ) means that the hypersurface bm osculates the boundary of the xxmaj siegel domaindn+1={(z0,z)∈cn+1 : imz0>|z|2 } to first order at zero , and to second - order along the variables z.

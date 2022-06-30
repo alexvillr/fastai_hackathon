@@ -1,1 +1,1 @@
-xxbos xxmaj the temple is on the top of xxmaj khandagiri hill .
+xxbos xxmaj this limit is enforced due to many different constraints , such as constraints on the number of registers each thread uses and an explicit constraint on the number of threads .

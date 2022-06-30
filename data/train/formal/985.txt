@@ -1,1 +1,1 @@
-In many designs, the ALU also has status inputs or outputs, or both, which convey information about a previous operation or the current operation, respectively, between the ALU and external status registers.
+Low-altitude (<600km), ion drag acceleration becomes strong due to the Pedersen conductivity layer (maximum value of 0.1163mhom-1 at ~370km).

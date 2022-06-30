@@ -1,1 +1,1 @@
-Umoe AS is a privately owned company based in Norway.
+Modelling was undertaken for 4 major elements (C, Ca, O, and H) and up to 9 minor elements (Ba, Cd, Cr, K, Mg, Ni, Sr, Ti, and Zn) based on those which are considered to be most volatile, have the greatest negative impact on the environment and health, and which were present in the highest quantities in the limestone as identified by ICP-MS analysis as outlined in Table 2, in order to investigate partitioning behaviour under pilot scale CO2 capture conditions.

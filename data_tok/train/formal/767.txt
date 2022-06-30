@@ -1,1 +1,1 @@
-xxbos xxmaj this article presents lists of the literary events and publications in 1738 .
+xxbos xxmaj whereas xxmaj l1 - minimum norm methods have been used in previous xxup meg studies ( auranen et al . , 2005 ; xxmaj osipova et al . , 2005 ; xxmaj pulvermuller and xxmaj shtyrov , 2003 ) , a major limitation with previous xxmaj l1 - minimum norm routines has been instability in spatial localization and poor smoothness in reconstructed source time - courses ( i.e. , the time - course of one specific grid point can show substantial spiky - looking discontinuities ) .

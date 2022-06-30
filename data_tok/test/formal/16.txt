@@ -1,0 +1,1 @@
+xxbos xxmaj the " error " in approximation is the difference in terms of the area between the region of the optimal supported qos and that of the approximated supported qos .

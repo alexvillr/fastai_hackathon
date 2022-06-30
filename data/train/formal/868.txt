@@ -1,1 +1,1 @@
-Qanir is also a member of the Association for Computing Machinery and the United Nations Association of the United States of America.
+The μC takes this stream, sends it to the FPGA via the serial scan-chain interface, and finally signals the FPGA to start execution of FATAL+.

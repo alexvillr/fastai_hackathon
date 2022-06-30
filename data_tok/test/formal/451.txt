@@ -1,0 +1,1 @@
+xxbos xxmaj as we aim to optimise network wide behaviour based on nodes localised decisions , the question of how the individual nodes can get the feedback about the remote network state and affect it becomes highly challenging .

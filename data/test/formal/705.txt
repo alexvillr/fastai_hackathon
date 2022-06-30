@@ -1,0 +1,1 @@
+The deposition velocity multiplied by the species number density at the lower boundary, in addition to the flux term from eddy diffusion, determines the flux of species to the surface.

@@ -1,0 +1,1 @@
+We therefore first show that E can be identified with A in such a way that null sets in one of these spaces correspond to null sets in the other.

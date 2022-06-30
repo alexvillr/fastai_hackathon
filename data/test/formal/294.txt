@@ -1,0 +1,1 @@
+In the second iteration the value, Ki-1/2, is updated based on the hydraulic head results obtained from the first iteration.

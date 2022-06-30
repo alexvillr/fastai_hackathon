@@ -1,0 +1,1 @@
+xxbos xxmaj if l is a smooth section of xxup t1,0(m ) in a neighborhood of 0 in xxup m , then [ l , l¯ ] is a section of xxup ct(m ) .

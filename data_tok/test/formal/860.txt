@@ -1,0 +1,1 @@
+xxbos xxmaj compared to the basic cycle , we have two additional states , resync and join , that can be occupied by non - faulty nodes during the stabilization process only , and an additional reset of memory flags on the transition from sleep→waking to waking .

@@ -1,0 +1,1 @@
+All of the following specifications are extendable and therefore, by Lemma 3.3, are uniquely characterized by describing them on executions on R only.

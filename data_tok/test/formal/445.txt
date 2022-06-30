@@ -1,0 +1,1 @@
+xxbos xxmaj accessing the off - chip global memory usually takes 20 to 40 times more clock cycles than accessing the on - chip shared memory / xxup l1 cache [ 51 ] .

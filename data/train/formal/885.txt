@@ -1,1 +1,1 @@
-Transmetropolitan is a cyberpunk comic book series written by Warren Ellis with art by Darick Robertson and published by the Vertigo imprint of DC Comics (originally by Helix).
+Note, this is after interpolating across the spacecraft viewing sectors of ELS, which before the interpolation contained a reduction in DEF at energies ≳ 70eV.

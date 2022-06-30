@@ -1,0 +1,1 @@
+If n is the degree of K over Q and O⊆OK is an order, we denote by On the set of elements of O of degree n, thus On≑{α∈O|Q(α)=K}.

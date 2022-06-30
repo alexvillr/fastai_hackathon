@@ -1,0 +1,1 @@
+ρVh(σ)(v)=ρV(σ)(v), for all v∈V, and ρVh(σ)(hash)=h(σ).

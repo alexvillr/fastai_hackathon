@@ -1,1 +1,1 @@
-xxbos xxmaj the tournament ran from xxmaj february 18 through xxmaj february 24 , 2002 .
+xxbos xxmaj for xxup t∈r0 + , module m now is a xxmaj t - stabilizing implementation of module xxup m′ , iff the restriction of each feasible execution of m on [ t-,t+)⊆r to [ t-+t , t+ ) is a feasible execution of xxup m′.

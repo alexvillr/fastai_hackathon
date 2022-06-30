@@ -1,0 +1,1 @@
+If L is a smooth section of T1,0(M) in a neighborhood of 0 in M, then [L,L¯] is a section of CT(M).

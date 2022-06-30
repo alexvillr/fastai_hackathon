@@ -1,0 +1,1 @@
+xxbos xxmaj then there exists a maximal right xxmaj r - ideal u with nr(u)=pok that is non - free ( i.e. , non - principal ) but is stably free ( i.e. , [ nr(u)]=0 in xxup c+(ok ) ) .

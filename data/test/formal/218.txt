@@ -1,0 +1,1 @@
+Since uv is a product of two atoms and G+ is half-factorial, it suffices to show uv<v′<e.

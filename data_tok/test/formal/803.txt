@@ -1,0 +1,1 @@
+xxbos xxmaj note that ρtcp and ρlddos , which respectively represents the average aggregate peak incoming rate of normal xxup tcp flows and lddos flows , are normally higher than b - the bandwidth of the outgoing link of a router .

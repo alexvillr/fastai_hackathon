@@ -1,0 +1,1 @@
+xxbos xxmaj for 3 m / s , the turbine will not run at all with strategy xxup a , as the extracted power is larger than the turbine power .

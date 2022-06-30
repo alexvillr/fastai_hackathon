@@ -1,1 +1,1 @@
-xxbos xxmaj he has also made important contributions to the theory of disordered electronic systems , among them the concept of universal conductance fluctuations .
+xxbos xxmaj by contrast , gradient - based optimisation algorithms use additional information to update the position in parameter space at each iteration : the first or higher derivatives of the functional of interest with respect to the parameters .

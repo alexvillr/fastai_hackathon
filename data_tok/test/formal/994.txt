@@ -1,0 +1,1 @@
+xxbos xxmaj as a consequence , any feedback - free compound module will eventually " forget " about transient faults and behave according to some fault - free history .

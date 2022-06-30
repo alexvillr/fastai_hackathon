@@ -1,0 +1,1 @@
+xxbos xxmaj the cpr - based approach exploits the fact that lddos flows actively induce network congestion whereas normal xxup tcp flows actively avoid network congestion .

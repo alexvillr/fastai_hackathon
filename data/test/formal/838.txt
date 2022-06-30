@@ -1,0 +1,1 @@
+Each edge e has a weight w(e).

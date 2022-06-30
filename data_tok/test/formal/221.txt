@@ -1,0 +1,1 @@
+xxbos xxmaj the xxmaj system xxmaj controller supports soft and hard resets of the different components within a chip and also communicates with the xxmaj system xxmaj controller in neighbouring chips .

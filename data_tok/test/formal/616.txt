@@ -1,0 +1,1 @@
+xxbos xxmaj if the receiving node still has available resources after receiving all the topics of interest , node x will send additional messages it has in its buffer ( in a xxup fifo manner ) as long as they are not duplicates .

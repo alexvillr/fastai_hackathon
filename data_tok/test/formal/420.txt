@@ -1,0 +1,1 @@
+xxbos xxmaj when reliable 3d velocity information is unavailable or one velocity component is explicitly ignored , a reduced xxup ftle form to approximate 2d xxup lcs surfaces in a 3d volume is necessary .

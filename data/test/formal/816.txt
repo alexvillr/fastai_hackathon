@@ -1,0 +1,1 @@
+Given an integer n, we denote by An the set of all algebraic integers of degree less than or equal to n in a fixed algebraic closure Q¯ of Q.

@@ -1,0 +1,1 @@
+xxbos xxmaj by keeping a stand - by core on each node a run - time fault can be accommodated without too much effort , particularly as the majority of the data is held in the separate , shared xxup sdram .

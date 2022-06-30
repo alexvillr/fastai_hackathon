@@ -1,0 +1,1 @@
+Note that, by hypothesis, ∂/∂x1∈T0c(bM) hence, up to a linear transformation, we can assume that T0c(M) is spanned by ∂/∂xj,∂/∂yj (1⩽j⩽n), i.e. that (z0,z) are adapted coordinates.

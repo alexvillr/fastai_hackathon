@@ -1,0 +1,1 @@
+xxbos xxmaj these features can sometimes be justified on cost alone : the overall yield for the 100mm2 spinnaker soc was estimated , using public domain yield statistics on a 20 - core , at 50 % fault - free chips , 25 % single - fault chips , 10 % two - fault chips and the remaining 15 % will be unusable due to critical failures .

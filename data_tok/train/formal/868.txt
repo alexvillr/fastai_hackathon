@@ -1,1 +1,1 @@
-xxbos xxmaj qanir is also a member of the xxmaj association for xxmaj computing xxmaj machinery and the xxmaj united xxmaj nations xxmaj association of the xxmaj united xxmaj states of xxmaj america .
+xxbos xxmaj the μc takes this stream , sends it to the xxup fpga via the serial scan - chain interface , and finally signals the xxup fpga to start execution of xxup fatal+ .

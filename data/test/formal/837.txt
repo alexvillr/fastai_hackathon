@@ -1,0 +1,1 @@
+Condition (2) means that the hypersurface bM osculates the boundary of the Siegel domainDn+1={(z0,z)∈Cn+1:Imz0>|z|2} to first order at zero, and to second-order along the variables z.

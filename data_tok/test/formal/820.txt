@@ -1,0 +1,1 @@
+xxbos a common approach is to assume that the inviscid approximation holds in the entire domain and use the xxmaj kutta condition [ 18 ] to calculate the circulation around the blade .

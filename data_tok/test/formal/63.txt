@@ -1,0 +1,1 @@
+xxbos xxmaj here the allocation space lies in xxup r4 , but the xxmaj edgeworth box lies in xxup r2 .

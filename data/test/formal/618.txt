@@ -1,0 +1,1 @@
+The numerical examples in this work have rectangular shaped deployment sites and therefore box constraints are sufficient to enforce this restriction.

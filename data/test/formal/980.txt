@@ -1,0 +1,1 @@
+Note that, since Sv=0,FTLE3d2d and FTLE2d2d are derived from identical Cauchy-Green tensors.

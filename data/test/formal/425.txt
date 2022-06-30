@@ -1,0 +1,1 @@
+Attack Frequency Intensification (AFI) LDDoS attack(n>0, g=n, m=1, σ=Ta/g)

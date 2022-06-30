@@ -1,0 +1,1 @@
+xxbos xxmaj the complexification xxup xc of x is given by xxup t×c , in which we consider coordinates ( z0 = θ+iy0,z1 ) where θ∈s1 , y0∈r , z1∈c .

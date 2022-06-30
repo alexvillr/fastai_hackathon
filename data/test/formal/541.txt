@@ -1,0 +1,1 @@
+If this point was removed from the regression, y=0.0415x+0.0849, r2=0.97, p<0.0001, with tissue dry weight approximately 5% of dry coral weight.

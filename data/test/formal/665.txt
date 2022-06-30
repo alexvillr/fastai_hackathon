@@ -1,0 +1,1 @@
+Generally, both Sv and Sw are functions of t and x.

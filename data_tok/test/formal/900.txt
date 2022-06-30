@@ -1,0 +1,1 @@
+xxbos xxmaj also the xxup vconf model by xxmaj rao et al . [ 16 ] has similar goals as presented in xxmaj section 1 , but depends on specific parameters , can only execute one action per iteration and it neglects the energy consumption of executed actions .

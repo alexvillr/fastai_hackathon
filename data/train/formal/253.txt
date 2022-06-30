@@ -1,1 +1,1 @@
-Snowmobile use is allowed on the trail in winter, conditions permitting.
+Taking into account that bj¯=bj one yields(4.10)M-bj¯=g-bj|D0τ(-bj)+∑ν′∈P∨¯ν′≠-bj(∑ν≺-bjν¯=ν′gν-bj)|D0τ(ν′).

@@ -1,1 +1,1 @@
-It was designed by the Cincinnati architectural firm of Elzner & Anderson.
+In real problems, many ways to present the semantic interpretations of set-valued information systems have been provided [47-50].

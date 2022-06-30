@@ -1,0 +1,1 @@
+xxbos xxmaj it requires a dedicated core , namely the xxmaj monitor xxmaj processor , which is selected during the boot - up process from all the functional cores .

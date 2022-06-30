@@ -1,1 +1,1 @@
-With 426 fatalities, it remains the deadliest mine accident to date in the country's history.
+Only five lines of code in execute.c are also part of Cluster 2 and are used for flushing output and clearing interrupt signals.

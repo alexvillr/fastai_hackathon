@@ -1,0 +1,1 @@
+xxbos xxmaj first we note that(3.17)if α∈r+ and ( α , br)=0 then urα∈r+ .

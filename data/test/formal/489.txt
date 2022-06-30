@@ -1,0 +1,1 @@
+Let f be an LTL formula and let us denote the set of variables in f as var(f).

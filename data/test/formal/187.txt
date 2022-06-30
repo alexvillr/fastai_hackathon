@@ -1,0 +1,1 @@
+There are many models for bromine chemistry in the troposphere and stratosphere, ranging from 3-D chemical transport models (e.g. von Glasow and Crutzen, 2006), to box models of the marine boundary layer (e.g. Sander and Crutzen, 1996), to 3-D stratospheric models (e.g. Hossaini et al., 2012).

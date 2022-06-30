@@ -1,1 +1,1 @@
-There are at least three described species in Allothelaira.
+The corresponding fundamental coweights br form the entire set of minuscule coweights, that is {br|r∈O′}={λ∈P∨|0≤(α,λ)≤1,∀α∈R+}.

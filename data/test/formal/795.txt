@@ -1,0 +1,1 @@
+Additionally, the radiation source used in their experiment, a 100-W xenon lamp, simulates the solar spectrum in space, which greatly exceeds the spectrum at Mars' surface because scattering and absorption by atmospheric gases and dust attenuates the ultraviolet solar flux (Patel et al., 2002).

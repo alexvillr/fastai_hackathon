@@ -1,0 +1,1 @@
+xxbos xxmaj we take advantage of these c oriented features to communicate xxmaj spin with the jdi - based monitor , to represent the xxmaj java states in xxmaj spin , and to implement our abstraction methods for xxmaj java states , explained in xxmaj section 3.1.3 .

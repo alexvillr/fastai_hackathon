@@ -1,1 +1,1 @@
-However, despite assuming to be the smartest person in the universe, there have been times where he has been proven wrong.
+MEG raw signals were first processed with Signal Space Separation (SSS; Taulu et al., 2004) using Maxfilter (Elekta MaxfilterTM; Elekta Oy).

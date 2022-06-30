@@ -1,0 +1,1 @@
+When the TSR decreases to these low tip speed ratios, the blades start to enter the stall region, which is one reason why the power coefficient does not increase any further.

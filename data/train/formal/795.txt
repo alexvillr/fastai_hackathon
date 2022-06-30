@@ -1,1 +1,1 @@
-Microbridge requires an Arduino USB Host Shield to properly function.
+This central range also correlates with the peak of the BHJ performance, indicating that better donor-acceptor balance within the network has not only an impact on surface morphology, but also on the inner distribution of the phases and related enhanced charge extraction.

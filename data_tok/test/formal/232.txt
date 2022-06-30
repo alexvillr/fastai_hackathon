@@ -1,0 +1,1 @@
+xxbos xxmaj the threshold pressures are assigned to the shales as a global mean value i.e. a single shale barrier has a uniform mean threshold pressure of 1.75mpa ( three - sigma standard deviation of ±0.15mpa , equivalent to approximately ±8.5 % , assuming a normal distribution ) .

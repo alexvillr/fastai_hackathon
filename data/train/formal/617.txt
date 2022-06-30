@@ -1,1 +1,1 @@
-Builder's photos were also reproduced as post cards as well as reprinted in advertisements to promote the railroad companies or manufacturers depicted therein.
+Updates to the photochemical model from Catling et al. (2010) include the incorporation of the delta 2-stream radiative transfer formulation of Toon et al. (1989) and a modification to the Rayleigh scattering cross-section.

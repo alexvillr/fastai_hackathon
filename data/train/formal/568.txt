@@ -1,1 +1,1 @@
-Ostha is a genus of moths of the family Noctuidae.
+A0=0.5ms-1, and max(Sw) is varied by choosing (31)B0=-[2,5,8,11,14,17,20,23,26,29]×10-4 in m s-1 and (32)B1=-[1,2,3,4,5,6,7,8,9,10]×10-4 in m s-1 km-1.

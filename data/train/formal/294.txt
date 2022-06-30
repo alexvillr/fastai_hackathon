@@ -1,1 +1,1 @@
-The series was produced in Los Angeles at Metromedia Square, the studios of KTTV, now a Fox owned-and-operated station.
+Since this characteristic of using high-bandwidth transfers in order to counter high latencies is common to most many-core machines (and even most multi-core machines), the TMM model captures the chunk size as one of its parameters.

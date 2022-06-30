@@ -1,0 +1,1 @@
+The push-forward of dξ by Γ induces, in a neighborhood of p, a measure on the orbits of G through λ.

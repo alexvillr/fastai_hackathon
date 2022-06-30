@@ -1,0 +1,1 @@
+A pump allows the gas to be sampled through the bubblers, and a dry gas meter allows the recording of the volume of gas which is sampled.

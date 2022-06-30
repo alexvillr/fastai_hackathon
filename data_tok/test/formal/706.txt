@@ -1,0 +1,1 @@
+xxbos xxmaj in xxmaj section 6 , we will argue that each of our basic modules will work as specified , except for very rare situations that may trigger metastability due to a violation of input timing constraints .

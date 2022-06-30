@@ -1,0 +1,1 @@
+In this section we outline how model checking can be applied for the debugging of real Java programs, as the motivation for the development of our tool.

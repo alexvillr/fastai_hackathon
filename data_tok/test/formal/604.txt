@@ -1,0 +1,1 @@
+xxbos xxmaj along this plane , the 3d xxup ftle can be approximated with a reduced cauchy - green tensor using only trajectories initialized on the plane , effectively neglecting normal gradients .

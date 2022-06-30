@@ -1,1 +1,1 @@
-This is a list of solar eclipses in the 13th century.
+The speedup of a program on these machines depends on how well the latency is hidden.

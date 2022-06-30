@@ -1,0 +1,1 @@
+This section addresses research question RQ5: What are the implications of inter-cluster dependence between coherent clusters?

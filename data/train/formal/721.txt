@@ -1,1 +1,1 @@
-The station is currently owned by Newcap Radio.
+We validate several predictions made by our model using empirical measurements on an instantiation of a highly-threaded, many-core machine, namely the NVIDIA GTX 480.

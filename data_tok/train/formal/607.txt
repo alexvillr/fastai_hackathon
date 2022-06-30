@@ -1,1 +1,1 @@
-xxbos xxmaj the program is based on the xxmaj american series xxmaj betty xxmaj white 's xxmaj off xxmaj their xxmaj rockers .
+xxbos with variable step length , i.e. each step δt of the electromechanical model usually corresponds to many internal steps .

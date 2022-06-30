@@ -1,1 +1,1 @@
-xxbos xxmaj he was twice more xxmaj mayor - 1689 to 1690 , and 1700 to 1701 .
+xxbos xxmaj the simulations were run with a time step of 0 . xxrep 3 0 25 t , spun up for a duration of approximately 200 t to allow fully developed turbulence conditions and statistics were collected over an interval of approximately 100 t.

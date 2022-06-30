@@ -1,0 +1,1 @@
+xxbos xxmaj if c′∈(h′:li)∩q• and d′∈(h″:lk)∩q• , then d′c′ik⊂d′h′k⊂d′k⊂h″ , i.e. , d′c′∈(h″:lik)∩q•. □

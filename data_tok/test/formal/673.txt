@@ -1,0 +1,1 @@
+xxbos xxmaj this means thatao=⋃i=1, … ,k(±αi+z ) where o = z[αi ] , i=1, … ,k and αi±αj∉z , ∀i≠j .

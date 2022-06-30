@@ -1,0 +1,1 @@
+Since 0<n<p(p-1), we can use Lemma 3.3 below to choose an integer l, prime to p, such that (7)vp(ln-1)=ap(n).

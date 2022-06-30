@@ -1,0 +1,1 @@
+xxbos ( keep in mind however that ⩽ need not be a partial order on the entire set xxup g , and ∧ and ∨ do not represent meet and join operations on the entire set g in the order - theoretic sense . )

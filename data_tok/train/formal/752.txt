@@ -1,1 +1,1 @@
-xxbos xxmaj six candidates contested the seat , which was won by xxmaj eruera xxmaj tirikatene .
+xxbos xxmaj to prove the xxup c∞ well - posedness of the xxmaj cauchy problem ( 1.1 ) in the form ( 4.1 ) we make use of the energye(t , ξ)={|v(t , ξ)|2for t∈aξ / |ξ|,ε and ξ / |ξ|∈x , 〈q(t , ξ)v(t , ξ),v(t , ξ)〉for t∈[a , b]∖aξ / |ξ|,ε and ξ / |ξ|∈x , defined for t∈[a , b ] , ξ∈rn with ξ / |ξ|∈x , and ε∈(0,e-1 ] .

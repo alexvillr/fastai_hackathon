@@ -1,1 +1,1 @@
-He is popular amongst Wimbledon fans who often ask to have their photograph taken with him.
+For every d∈Q• there is a bijection ZH⁎(a)→ZHH⁎(d-1(Ha)d), given byu1⁎u2⁎⋯⁎uk↦d-1(Huk)d⁎(d-1uk-1(Huk-1)ukd)⁎⋯⁎(d-1uk-1⋅⋯⋅u2-1(Hu1)u2⋅⋯⋅ukd).

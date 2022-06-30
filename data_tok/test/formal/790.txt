@@ -1,0 +1,1 @@
+xxbos xxmaj the velocity components are then ( 22a)u = asin(z)+ccos(y),(22b)v = bsin(x)+acos(z),(22c)w = csin(y)+bcos(x).fig . 1 shows example cross - sections of this velocity field with xxup a=1 and xxup b = c=0.8 .

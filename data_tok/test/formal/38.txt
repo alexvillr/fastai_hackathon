@@ -1,0 +1,1 @@
+xxbos xxmaj in contrast , its approach to hide memory latency is primarily based on strided memory access patterns associated with vector computation .

@@ -1,0 +1,1 @@
+FTLE3d2d also accurately reproduces the steep FTLE drop within the eddies.

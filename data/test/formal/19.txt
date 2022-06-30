@@ -1,0 +1,1 @@
+Finally, dmin+>C/ϑ, since this is the minimal time the HSM allows between locking a state transition and actually performing the transition at the port Si.3030

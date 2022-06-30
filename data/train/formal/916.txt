@@ -1,1 +1,1 @@
-It is also home to many grizzly bears.
+The finite wing theory equations are applied in a similar way as done by Paraschivoiu for the stream-tube model [16], e.g.(11)a0=1.8π(0.8tbc),(12)CL=CL∞1+a0πAR,(13)αe=α-CLπARand(14)CD=CD∞+CL2πARare used as follows: The reduced angle of attack is calculated using Eqs.

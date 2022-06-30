@@ -1,1 +1,1 @@
-There have been lawsuits over cracking software.
+Using Lom2His we measured utilized resources of TopHat [45], a typical bioinformatics workflow application analyzing RNA-Seq data [46], for a duration of about three hours [9].

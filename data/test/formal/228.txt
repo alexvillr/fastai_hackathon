@@ -1,0 +1,1 @@
+In the case αn∉S0 we have M-e1¯=(t0tn)-1MN1,N2+κt, where MN1,N2 is the generalized Koornwinder operator (5.12) with N1=n-mk, N2=m and the parameterss=t1,ξ=η1,a=t0u0q-1,b=-t0u0-1q-1,c=tnun,d=-tnun-1 satisfying the condition ℏ/η1=k∈Z≥2.

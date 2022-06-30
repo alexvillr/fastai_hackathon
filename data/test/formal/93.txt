@@ -1,0 +1,1 @@
+Let X be a variety, and d an integer.

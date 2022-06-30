@@ -1,0 +1,1 @@
+Then there exists a maximal right R-ideal U with nr(U)=pOK that is non-free (i.e., non-principal) but is stably free (i.e., [nr(U)]=0 in C+(OK)).

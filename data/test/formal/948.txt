@@ -1,0 +1,1 @@
+Let Lν={(α,β):Gα,β≤Rν},Uν={(α,β):Gα,β≥Rν} be the set of all (α,β) for which Gα,β is a lower/upper Amos-type bound for Rν, and write GLν={Gα,β:(α,β)∈Lν},GUν={Gα,β:(α,β)∈Uν}, for the corresponding families of lower/upper Amos-type bounds for Rν.

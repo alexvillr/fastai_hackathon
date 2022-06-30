@@ -1,0 +1,1 @@
+Therefore, for all classical maximal O′-orders R′ and all g∈CA(O′)∖{0}, there exists a maximal left R′-ideal I with [nr(I)]=g.

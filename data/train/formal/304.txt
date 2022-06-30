@@ -1,1 +1,1 @@
-Mifeprex is the only drug distributed by Danco, although the company plans to expand to other drugs in the future.
+The width of memory access C is 32 due to the coalescing of the threads in a warp.

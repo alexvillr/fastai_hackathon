@@ -1,0 +1,1 @@
+Fluxes are very low at the wake center, although some channels (C0-C4) record foreground with a weak signal to noise ratio of about 5-7.

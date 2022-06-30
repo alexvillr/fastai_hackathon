@@ -1,0 +1,1 @@
+xxbos xxmaj the scalar is allowed to freely escape at the top of the domain .

@@ -1,0 +1,1 @@
+Finally, a state transition module represents several communicating concurrent asynchronous state machines (with maximum transition time dTrans).

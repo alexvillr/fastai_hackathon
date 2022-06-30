@@ -1,0 +1,1 @@
+xxbos xxmaj for arbitrary ν , gα , β≤rν or xxup gα , β≥rν are only possible when α≥ν+1 / 2 or α≤ν+1 / 2 , respectively .

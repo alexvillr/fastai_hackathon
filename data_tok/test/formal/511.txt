@@ -1,0 +1,1 @@
+xxbos xxmaj options are available for selecting different combinations of soil variables and phylogeny level of otus in the annotation file .

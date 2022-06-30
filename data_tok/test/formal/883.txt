@@ -1,0 +1,1 @@
+xxbos xxmaj as smri and fmri classifiers were vulnerable to different types of errors , it was possible to combine them to overcome their individual limitations .

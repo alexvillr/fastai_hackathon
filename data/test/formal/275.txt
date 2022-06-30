@@ -1,0 +1,1 @@
+Chowdhury et al. [39] present a hierarchical multi-level caching model (HM), consisting of a collection of cores sharing an arbitrarily large main memory through a hierarchy of caches of finite but increasing sizes that are successively shared by larger groups of cores.

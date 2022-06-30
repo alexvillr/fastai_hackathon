@@ -1,0 +1,1 @@
+After the CO2 concentrations were converted from ppm to mass units (μg CO2 litre-1), r was calculated:(2)r=Crate×VWwhere Crate is the change in CO2 concentration over the initial 5 min of incubation (g CO2 litre-1 h-1), V is the headspace volume of the Tedlar bag (litre), and W is the mass (g) of incubated litter/humus, SOM or root.

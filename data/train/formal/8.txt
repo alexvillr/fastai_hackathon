@@ -1,1 +1,1 @@
-It was reported on 22 July 2006 that a character with Down's syndrome would be introduced to EastEnders.
+We now consider a binary heap implementation so that each operation (insert, decrease-key, and delete-min) takes O(lgn) time.

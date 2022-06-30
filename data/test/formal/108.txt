@@ -1,0 +1,1 @@
+It consists of a toroidal arrangement of processing nodes, each incorporating a purpose-built, multi-core System-on-Chip (SoC) and an SDRAM memory (Fig. 1).

@@ -1,0 +1,1 @@
+The turbine friction function ct in the governing PDE (3) is defined to be the sum of the friction functions (5) for all N turbines:(6)ct(m)≡∑i=1NCi(m),where a single value for r is used based on the assumption that the deployed turbines are of equal size.

@@ -1,0 +1,1 @@
+ For the sake of a straightforward presentation, throughout this article we assume that all channels from node i to some node j are part of node i, i.e., faults of the channel are mapped to the sender node.

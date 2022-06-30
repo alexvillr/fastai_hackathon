@@ -1,1 +1,1 @@
-On November 8, it was rejected.
+We see that the combination of high TTlow and high TThigh (Scenario 8) gives the best utilization (84.0%), whereas low values for TTlow and TThigh lead to the worst utilization (62.0% in Scenario 1).

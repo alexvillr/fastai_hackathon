@@ -1,0 +1,1 @@
+An alternative definition uses the same-slice relation in place of slice inclusion (Binkley and Harman, 2005).

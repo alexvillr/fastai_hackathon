@@ -1,0 +1,1 @@
+xxbos xxmaj to merge those similar rois into one single feature , we performed a hierarchical clustering with average linkage ( johnson , 1967 ) .

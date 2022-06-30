@@ -1,1 +1,1 @@
-Its main purpose is to help players to develop their ball hitting technique.
+The predicted measurement for the next iteration is handled similarly in line 10.

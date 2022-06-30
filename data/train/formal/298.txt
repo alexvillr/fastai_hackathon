@@ -1,1 +1,1 @@
-The term flying fox is Australian English and New Zealand English.
+For λ∈V denote by τ(λ) the shift operator τ(λ)x=x+ℏλ, ∀x∈V.

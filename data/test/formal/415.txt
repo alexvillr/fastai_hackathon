@@ -1,0 +1,1 @@
+This means that detailed thermal structure calculations that rely on a proper description of photoelectron heating efficiencies are required.

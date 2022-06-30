@@ -1,0 +1,1 @@
+Secondly, DARPA's System of Neuromorphic Adaptive Plastic Scalable Electronics (SyNAPSE) project claims that it has achieved the simulation of spiking neural networks the size of a cat's brain [34] - 109 neurons - using Izhikevich models like those supported by SpiNNaker.

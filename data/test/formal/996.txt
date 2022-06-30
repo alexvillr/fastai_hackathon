@@ -1,0 +1,1 @@
+Xl has (r+1)(l+42) rigid factorizations: They arise from the different rigid factorizations Ui⁎Ui¯∈ZIv(α)⁎(Ol(U)p) for i∈[0,r] and the possible transpositions of Ui and Ui¯.

@@ -1,0 +1,1 @@
+If H is a maximal order, then every order H′ with H′∼H is contained in a maximal order equivalent to H.

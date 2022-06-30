@@ -1,1 +1,1 @@
-Its only species, Sternoharpya stictica, was described by the same author in the same year.
+For example, AFI LDDoS attacks could enlarge the attack period Ta for each attack flow; AWI LDDoS attacks could narrow the attack burst width Tb of each attack flow; ARI LDDoS attacks could reduce the attack burst rate Rb for every attack flow and MI LDDoS attacks could employ one or several of the aforementioned strategies.

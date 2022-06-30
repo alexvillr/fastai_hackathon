@@ -1,0 +1,1 @@
+xxbos xxmaj as δ′(t)=tt2+β12 - tt2+β22 , if β1 < β2 we have δ′>0 and hence δ>0 iff δ(0)≥0 , and δ<0 iff δ(∞)≤0 .

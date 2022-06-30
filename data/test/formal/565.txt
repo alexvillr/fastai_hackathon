@@ -1,0 +1,1 @@
+A construct was generated containing the T7 RNA polymerase promoter sequence, followed by the hammerhead ribozyme sequence, upstream of the mt-tRNAPhe sequence after which was positioned a BstNI site.

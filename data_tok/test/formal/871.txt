@@ -1,0 +1,1 @@
+xxbos xxmaj if two - dimensional uniform scaling is applied , we have dd(ri·d)≤(|v|-1)δ and cd(ri·d)≤(|v|-1)δ .

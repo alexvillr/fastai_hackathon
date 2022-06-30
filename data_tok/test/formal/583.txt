@@ -1,0 +1,1 @@
+xxbos xxmaj the index of xxmaj in in xxmaj z[x ] is pβ(1)+β(2)+β(3)+⋯+β(n ) by xxmaj corollary 2.4(2 ) and [ z[x]:in]<[z[x]:jn ] if and only if n > p by xxmaj fact 2.1(2 ) . □

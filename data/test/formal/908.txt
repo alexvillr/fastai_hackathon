@@ -1,0 +1,1 @@
+Hence q=t1k and we can choose(4.22)Sℓ={eN1+k(ℓ-1)+1-eN1+k(ℓ-1)+2,…,eN1+kℓ-1-eN1+kℓ},ℓ=1,…,N2, where N1=n-mk and N2=m.

@@ -1,1 +1,1 @@
-Formula One racing, paper and printing presses, medical technology, nano technology, stage and lifting technology, the aerospace sector and offshore gas and oil extraction.
+It is then a simple matter to generate a 3-of-6 code with an auxiliary EoP line appropriate for the NoC.

@@ -1,0 +1,1 @@
+If G(e) is abelian, it can be easily checked that this isomorphism does not depend on the choice of a: If a,a′∈G(e,f), thena′(a-1xa)a′-1=(a′a-1)x(aa′-1)=(a′a-1)(aa′-1)x=x.

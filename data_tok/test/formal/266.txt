@@ -1,0 +1,1 @@
+xxbos xxmaj we can assume xxup h⊂hd-1 and take j to be the inclusion map , and we call xxup hd-1 the category of right fractions of h with respect to xxup d.

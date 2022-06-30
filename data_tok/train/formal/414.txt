@@ -1,1 +1,1 @@
-xxbos xxmaj the inflorescence often does not exceed the length of the leaf rosette .
+xxbos xxup cuda ( aka xxmaj compute xxmaj unified xxmaj device xxmaj architecture ) is a parallel computing platform and programming model created by xxup nvidia .

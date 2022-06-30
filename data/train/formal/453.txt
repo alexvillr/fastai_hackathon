@@ -1,1 +1,1 @@
-For the general comparison in this article the Latin terms "ius" and "lex" will be used.
+Since w-1θ∈R then w-1θ∈R0=V0∩R, and the formula R0=⨆ℓ=1mRℓ implies that w-1θ∈Rℓ for some ℓ.

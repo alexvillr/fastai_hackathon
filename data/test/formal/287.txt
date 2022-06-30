@@ -1,0 +1,1 @@
+Models of the upper atmosphere with solar composition and heating based on the average solar X-ray and EUV flux agree broadly with the observations but tend to underestimate the transit depths in the O I, C II, and Si III lines.

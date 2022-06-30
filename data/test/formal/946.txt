@@ -1,0 +1,1 @@
+Hence degup¯(X)=pi⋅χ(OX)modpnXZ(p) and degup(X)p=pi-1⋅χ(OX)modnX(p).

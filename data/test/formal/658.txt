@@ -1,0 +1,1 @@
+Since the function Tif(x) is continuous it vanishes on the whole plane: Tif(x)=0, ∀x∈H(S′).

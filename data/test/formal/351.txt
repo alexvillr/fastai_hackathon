@@ -1,0 +1,1 @@
+A moon or any other object (ring material or ring arcs, plume material, neutral gas, dust, etc.) blocks and absorbs some of those bouncing particles, appearing as an absorption signature in the differential intensities of the measured particles in a given energy range.

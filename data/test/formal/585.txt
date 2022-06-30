@@ -1,0 +1,1 @@
+For the sake of notational convenience, we also letQ(s,ζ)=f(h(ζ),ζ)+s+sζ⋅b(s,ζ)s+|ζ|2,R(s,ζ)=h(ζ)+sζ⋅a(s,ζ)s+|ζ|2.

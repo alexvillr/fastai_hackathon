@@ -1,1 +1,1 @@
-In 2014 she will again be co-directing Joni and Gina's Wedding at the Viva Las Vegas Events Center in Las Vegas, NV.
+This demonstrates the differences between using a GCM to represent the thermosphere and using a simple 'slippage' relation between thermospheric and magnetospheric angular velocities.

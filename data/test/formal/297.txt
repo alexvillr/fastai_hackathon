@@ -1,0 +1,1 @@
+Thus a large dependence cluster might be thought of as a bad code smell (Elssamadisy and Schalliol, 2002) or a anti-pattern (Binkley et al., 2008).

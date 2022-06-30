@@ -1,1 +1,1 @@
-xxbos xxmaj the group 's first round of matches were played on 10 xxmaj january , the second round on 14 xxmaj january , and the final round on 18 xxmaj january .
+xxbos xxmaj dirichlet boundary conditions on the left and right boundaries enforced the following sinusoidal in- / outflow velocity : u(x , y , t)=(-2sin(2πt / xxup p)0 ) .

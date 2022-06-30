@@ -1,1 +1,1 @@
-It may also be used when Rh negative people are given Rh positive blood.
+Additionally, the KB does not only enable decision making out of current data, i.e., suggesting actions to be executed, but also improving the quality of decisions by keeping track of the success or failure of previous decisions, i.e., learning.

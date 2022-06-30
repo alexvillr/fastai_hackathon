@@ -1,0 +1,1 @@
+The ZnO hole-blocking layer should also allow visible light to pass through to the blend, but filter out the UV light to prevent blend degradation and thus improve device longevity [15,22].

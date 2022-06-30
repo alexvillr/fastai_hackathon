@@ -1,1 +1,1 @@
-Under Godfrey's command the 10,200-strong Crusader army took the offensive, leaving the city on 10 August to risk everything on a great battle against the approaching Muslims.
+In general, determining whether a module M is a self-stabilizing implementation of some other module M′ (or even bounding the stabilization time) requires a detailed stabilization analysis.

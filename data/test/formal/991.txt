@@ -1,0 +1,1 @@
+Let (cl,dl) be the QoS parameter of Edge l, where cl and dl are the cost and delay of l, respectively.

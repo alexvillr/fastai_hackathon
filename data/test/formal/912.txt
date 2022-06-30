@@ -1,0 +1,1 @@
+To estimate the emission line profile from HD209458, we fitted the solar C II 1335.7Å line from the SUMER spectral atlas (Curdt et al., 2001) with a Voigt function and adjusted the result to agree with observations (Linsky et al., 2010).

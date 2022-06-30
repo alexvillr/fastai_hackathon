@@ -1,0 +1,1 @@
+xxbos xxmaj as it is acyclic as well , there must be a module s without an incoming edge , implying that xxmaj ei-1 specifies executions of all its input ports .

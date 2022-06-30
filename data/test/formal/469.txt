@@ -1,0 +1,1 @@
+Models for geophysical flows frequently solve the momentum equations for horizontal (respectively adiabatic) velocities in horizontal (respectively adiabatic) layers, leaving the normal velocity to be derived from the incompressibility condition.

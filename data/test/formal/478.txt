@@ -1,0 +1,1 @@
+For arbitrary ν,Gα,β≤Rν or Gα,β≥Rν are only possible when α≥ν+1/2 or α≤ν+1/2, respectively.

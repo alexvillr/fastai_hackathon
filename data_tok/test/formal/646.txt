@@ -1,0 +1,1 @@
+xxbos xxmaj given a temporal formula f using only the eventually " ◊ " and until " u " temporal operators , if v = var(f)⊆var then(10)t⊨f⇔ρvc(t)⊨sf .

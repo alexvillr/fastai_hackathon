@@ -1,1 +1,1 @@
-It is prepared by coating the meat in tankora powder, a mixture of ground seasonings including dried hot peppers, ginger, and other spices, and peanut flour.
+They use these three-values as a way to adapt the semantics of LTL to the evaluation of finite traces.

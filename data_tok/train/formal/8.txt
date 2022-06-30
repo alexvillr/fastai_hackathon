@@ -1,1 +1,1 @@
-xxbos xxmaj it was reported on 22 xxmaj july 2006 that a character with xxmaj down 's syndrome would be introduced to eastenders .
+xxbos xxmaj we now consider a binary heap implementation so that each operation ( insert , decrease - key , and delete - min ) takes xxmaj o(lgn ) time .

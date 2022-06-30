@@ -1,0 +1,1 @@
+If this strategy operates at the stable equilibrium and there is an increase in wind speed, the aerodynamic power will increase, hence P>Pe and the turbine will accelerate until a new equilibrium is reached (compare with Fig. 5).

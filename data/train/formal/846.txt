@@ -1,1 +1,1 @@
-The congregation was a member of the Federation of the Sisters of St. Joseph which disbanded in 2013.
+But the aim of this subsection is to restrict to the situation where the base ring O is a Dedekind domain, as a preparation for the structural results on sets of lengths in the setting of holomorphy rings.

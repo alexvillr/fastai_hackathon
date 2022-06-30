@@ -1,0 +1,1 @@
+Therefore, the speedup on P processors is (27)SP=Ω(min(P,mn,C⋅TL⋅P)).

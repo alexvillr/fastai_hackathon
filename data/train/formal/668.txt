@@ -1,1 +1,1 @@
-The Angolan football Cup is the main "knockout" cup competition in Angolan football.
+On each layer, the state machines of the (at least n-f) non-faulty nodes cooperate in order to establish certain synchronization properties of their output signals.

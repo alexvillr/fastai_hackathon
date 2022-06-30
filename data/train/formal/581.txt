@@ -1,1 +1,1 @@
-They have a boy Carter Devon Walker, born in February 2014.
+When synchronizing clocks, one needs to face that clocks are not perfect and that it cannot be exactly determined how much time it takes to communicate a clock reading.

@@ -1,0 +1,1 @@
+The model of Garrett and Cummings [1] has been extended to open channel flow with a drop in surface level by Whelan et al. [30], but this modification is omitted in the current work as the two-dimensional simulation model in Section 2 does not model changes in surface level.

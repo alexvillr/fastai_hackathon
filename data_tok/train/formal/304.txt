@@ -1,1 +1,1 @@
-xxbos xxmaj mifeprex is the only drug distributed by xxmaj danco , although the company plans to expand to other drugs in the future .
+xxbos xxmaj the width of memory access c is 32 due to the coalescing of the threads in a warp .

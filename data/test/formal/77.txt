@@ -1,0 +1,1 @@
+This control strategy has been used for HAWTs before, see Ref.

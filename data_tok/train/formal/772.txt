@@ -1,1 +1,1 @@
-xxbos xxmaj they had five sons and five daughters .
+xxbos xxmaj it is important to note that the assumptions on the communication channels are strictly weaker than those on fixed - delay channels , as the delay of a communication channel may vary arbitrarily ( within bounds ) during an execution .

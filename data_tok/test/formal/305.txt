@@ -1,0 +1,1 @@
+xxbos xxmaj then , the author applied the basic technique of interval partitioning in xxmaj sahni ( 1977 ) to design a second ε - approximation algorithm with the time complexity of o(|e|(n2 / ε)log(n / ε ) ) .

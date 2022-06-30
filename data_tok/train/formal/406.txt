@@ -1,1 +1,1 @@
-xxbos xxmaj east xxmaj central xxmaj guadalcanal is a single - member constituency of the xxmaj national xxmaj parliament of xxmaj solomon xxmaj islands .
+xxbos xxmaj we previously introduced the communication channels from node i to node j as abstract devices that convey the states with a delay of at most d that also accounts for computations .

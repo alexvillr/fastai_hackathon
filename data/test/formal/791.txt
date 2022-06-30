@@ -1,0 +1,1 @@
+In other words, when the aggregate rate of the LDDoS flows is very close to the bottleneck bandwidth of network, deploying RED is able to drop more attack packets while increasing the throughput of the normal TCP flows.

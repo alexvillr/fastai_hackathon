@@ -1,0 +1,1 @@
+xxbos xxmaj let ( cl , dl ) be the qos parameter of xxmaj edge l , where cl and dl are the cost and delay of l , respectively .

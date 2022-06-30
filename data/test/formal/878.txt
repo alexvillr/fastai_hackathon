@@ -1,0 +1,1 @@
+These local time variations are consistent with those inferred from Hubble Space Telescope (HST) auroral observations in the UV analysed by Lamy et al. (2009), scaled to our assumed average incident flux of 0.62mWm-2 in R15 and to different averages for other simulations, as listed in Table 1.

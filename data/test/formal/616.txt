@@ -1,0 +1,1 @@
+If the receiving node still has available resources after receiving all the topics of interest, node X will send additional messages it has in its buffer (in a FIFO manner) as long as they are not duplicates.

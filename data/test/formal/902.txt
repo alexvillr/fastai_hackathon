@@ -1,0 +1,1 @@
+If the membrane potential exceeds a given threshold, the neuron discharges and fires a signal (a so-called spike) which is transmitted to all neurons connected through a synaptic connection, typically in the order of 103 [11].

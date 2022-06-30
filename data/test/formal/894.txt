@@ -1,0 +1,1 @@
+Suppose f is not the identity function and let k∈Zp such that f(k)≠k.

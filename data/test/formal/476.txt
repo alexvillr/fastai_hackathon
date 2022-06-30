@@ -1,0 +1,1 @@
+We continue the discussion of normalizing Krull monoids in Remarks 5.17.2 and 5.24.1, where the divisorial two-sided ideal theory appears as a special case of the divisorial one-sided ideal theory.

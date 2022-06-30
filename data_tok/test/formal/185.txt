@@ -1,0 +1,1 @@
+xxbos xxmaj the counter projection abstracts the xxmaj java state by preserving the variables which appear in the xxup ltl formula and adding a counter to distinguish the rest of the state .

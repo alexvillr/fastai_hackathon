@@ -1,0 +1,1 @@
+xxbos xxmaj another problem is that the drag force will be zero , which makes it difficult to estimate turbine efficiency .

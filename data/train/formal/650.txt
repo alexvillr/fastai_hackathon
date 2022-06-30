@@ -1,1 +1,1 @@
-The name Inchcailloch means "Isle of the old woman" or "Isle of the Cowled (Hooded) Woman" in the Scottish Gaelic language.
+For this empirical study, the class of defaulters in each of the training data sets was artificially reduced, by a factor of 5% up to 95% then by 2.5% and 1%, so as to create a larger difference in class distribution.

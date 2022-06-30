@@ -1,0 +1,1 @@
+for each submodule S∈SM whose execution ES is already fully specified by Ei, we have that ES restricted to [t-+FS,M,t+)⊇[t-+F,t+) equals the corresponding restriction of E.

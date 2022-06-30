@@ -1,0 +1,1 @@
+Composing on the left with the map (2), and on the right with the inverse of the map (9) with A=CHq-i(p-1)(-), we obtain a natural transformation of functors Proj→AbTi:CHq(-)⊗Z/p→CHq-i(p-1)(-)Z⊂Q⊗Z/p.

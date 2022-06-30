@@ -1,0 +1,1 @@
+xxbos xxmaj assume that the decision attribute d makes a partition of u into a finite number of classes .

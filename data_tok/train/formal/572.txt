@@ -1,1 +1,1 @@
-xxbos xxmaj carrstone ( or carstone , also known as xxmaj silsoe and gingerbread ) is a sedimentary sandstone conglomerate formed during the xxmaj cretaceous period .
+xxbos xxmaj the bounds bl and bu are used to enforce that the turbines remain in a prescribed area ( here assumed a rectangle for simplicity ) , while g(m ) is used to enforce a minimum distance between any two turbines ( e.g. as a multiple of the turbine diameter ) .

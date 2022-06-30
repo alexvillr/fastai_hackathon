@@ -1,1 +1,1 @@
-Notable art critic Robert Hughes is numbered one of Chatham's collectors and there are others as diverse as Paul Allen and actor Jack Nicholson.
+By combining equations (3) and (7), the velocity contribution from a vortex far downstream is(13)u(z)¯=-i2π∑k=1∞ake-πzWk.Here, it is seen that the contribution from a vortex decays exponentially with the factor z/W, where z is the distance to the vortex.

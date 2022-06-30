@@ -1,1 +1,1 @@
-He was born in Dallas, Texas and grew up in Birmingham, Alabama.
+The Congestion Participation Rate (CPR) can accurately capture this fundamental difference, and hence allow us to identify LDDoS flows.

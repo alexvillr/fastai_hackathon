@@ -1,1 +1,1 @@
-xxbos xxmaj established in 1905 , the xxmaj american xxmaj library xxmaj institute was an organization conceived by xxmaj melvil xxmaj dewey to provide for the investigation , study and discussion of issues within the field of library theory and practice .
+xxbos xxmaj from the previous observation ( 5.1 ) on δ˜ we have that δ˜(t , ξ)⩽c2(1 / t2)δ(t , ξ ) on [ 0,t ] for |ξ|⩾1 .

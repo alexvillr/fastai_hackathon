@@ -1,0 +1,1 @@
+xxbos xxmaj therefore , the speedup on p processors is ( 27)sp = ω(min(p , mn , c⋅tl⋅p ) ) .

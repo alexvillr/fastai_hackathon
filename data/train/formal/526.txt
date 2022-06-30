@@ -1,1 +1,1 @@
-Notable past winners include Zelda Meyer (unbeaten champion) and Daantjie Badenhorst.
+This empirical curve follows the features of the farm-aggregated Siemens SWT-2.3-82 power curve (solid line), albeit shifted to the right (as NASA speeds are the theoretical maximum, and actual speeds will be lower due to local site features) and downwards (due to downtime and sub-optimal turbine calibration), with substantial scatter (as local conditions like turbulence vary over time).

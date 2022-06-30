@@ -1,1 +1,1 @@
-The ship was built by Bath Iron Works in Bath, Maine, starting on 8 May 1997.
+All LCS diagnostics have attributes that are appropriate for particular situations.

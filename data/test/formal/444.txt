@@ -1,0 +1,1 @@
+Request (c,d) can be supported by a path with the QoS parameter (c′,d′), where c′≤c and d′≤d.

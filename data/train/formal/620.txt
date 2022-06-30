@@ -1,1 +1,1 @@
-Microdon manitobensis is a species of syrphid fly in the family Syrphidae.
+The code is automatically generated using an initial Promela template and the information provided by the user in the correctness specification file (see Fig. 6).

@@ -1,0 +1,1 @@
+At the upper boundary of the model, we vary the odd nitrogen (N and NO) input from the ionosphere because the fluxes we assume in the nominal model are uncertain (Krasnopolsky, 1993).

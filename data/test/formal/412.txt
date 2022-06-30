@@ -1,0 +1,1 @@
+For the rule-based approach we first introduce several resource policy modes to reflect the overall utilization of the system in the VM configuration rules.

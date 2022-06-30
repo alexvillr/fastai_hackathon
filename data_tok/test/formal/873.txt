@@ -1,0 +1,1 @@
+xxbos xxmaj newly emerging work on congestion control in dtns attempts to rectify this by proposing adaptive forwarding [ 14,31,15,30 ] or adaptive replication management [ 39,38,26,36,37 ] techniques .

@@ -1,0 +1,1 @@
+xxbos xxmaj all of the following specifications are extendable and therefore , by xxmaj lemma 3.3 , are uniquely characterized by describing them on executions on r only .

@@ -1,0 +1,1 @@
+xxbos xxmaj these local time variations are consistent with those inferred from xxmaj hubble xxmaj space xxmaj telescope ( hst ) auroral observations in the xxup uv analysed by xxmaj lamy et al . ( 2009 ) , scaled to our assumed average incident flux of 0.62mwm-2 in xxup r15 and to different averages for other simulations , as listed in xxmaj table 1 .

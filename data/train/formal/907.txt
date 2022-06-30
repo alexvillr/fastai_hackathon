@@ -1,1 +1,1 @@
-In 1989, he received a government grant to study certain aspects of Inuit culture.
+Repeated random experiments are controlled via a Python script executed at a PC workstation, which is connected via USB to an ATMega 16 microcontroller (μC) that acts as a scan-controller towards the FPGA.

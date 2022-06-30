@@ -1,1 +1,1 @@
-In 1997, the book was translated from Arabic to Persian.
+If there is no representative point in PF located in the area [0,UB]×[ri·d,ri-1·d], the area [ri·c,ri·c+CD(ri·c)]×[ri·d,ri-1·d] is NOT included in the feasible area found by the scaling mechanism.

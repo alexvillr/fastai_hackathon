@@ -1,1 +1,1 @@
-As is in postcolonial discourse, the term postcolonial is used without a hyphen, denoting an intellectual reaction against the colonial, instead of being merely sequential to it.
+Therefore, the total span of the algorithm is T∞=O(nlgn).

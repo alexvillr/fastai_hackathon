@@ -1,0 +1,1 @@
+In case of the memory flag implementation shown in Fig. 11, dMem is primarily determined by the end-to-end settling time of the feedback loop.

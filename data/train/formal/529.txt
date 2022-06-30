@@ -1,1 +1,1 @@
-Investigative journalism is a form of journalism in which reporters deeply investigate a single topic of interest, such as serious crimes, political corruption, or corporate wrongdoing.
+ Then the Cauchy problem (1.1) is C∞ well-posed in [a,b] with initial data at t0=a, and it is also well-posed in D′(Rn).

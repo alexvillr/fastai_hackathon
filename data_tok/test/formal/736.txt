@@ -1,0 +1,1 @@
+xxbos xxmaj drawing currents at unity power factor would reduce the resistive loss by up to 17 % in the high wind speed case and 12 % in the low wind speed case , which corresponds to an increase of the generator efficiency by 0.1 - 0.5 % .

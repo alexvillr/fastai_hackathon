@@ -1,0 +1,1 @@
+If the hydraulic head at the beach surface is greater than the hydraulic head within the confined region of the beach, the surface flow recharges groundwater and q is positive.

@@ -1,0 +1,1 @@
+xxbos xxmaj for wind power , the maximum power coefficient for free flow is 16 / 27 according to the xxmaj betz limit [ 29 ] .

@@ -1,1 +1,1 @@
-Under the conditions stipulated by the Colonial Office, settlers would be granted land in proportion to the value of assets and labor that they brought to the colony.
+This is the main reason that existing approaches can only detect the aggregate flow of an LDDoS attack, rather than a single attack flow.

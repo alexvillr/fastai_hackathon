@@ -1,1 +1,1 @@
-Jason Anick (born October 3, 1985, Framingham, Massachusetts) is an American jazz violinist, mandolin player and composer.
+It has to be noted that unlike the latter scheme, the proposed Runge-Kutta scheme allows an adaptive time-stepping as suggested by Shi et al. (2012).

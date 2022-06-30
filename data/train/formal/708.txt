@@ -1,1 +1,1 @@
-Potemnemus hispidus is a species of beetle in the family Cerambycidae.
+Spin is a well known model checker for analyzing models of software and other complex systems, defined with the Promela language.

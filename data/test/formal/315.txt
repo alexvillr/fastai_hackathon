@@ -1,0 +1,1 @@
+Also assume that M¯ is a closed subset in M˜, a complex neighborhood of M¯ of the same dimension on which the complex structure on M˜ extends that of M and every point of M¯ is an interior point of M˜.

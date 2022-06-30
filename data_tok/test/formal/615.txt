@@ -1,0 +1,1 @@
+xxbos xxmaj from xxmaj definition 4 , we have : rcδ⩾̲d1⩽={x5},rcδ⩾¯d1⩽={x1,x3,x5},rcδ⩾̲d2⩽={x1,x3,x4,x5},rcδ⩾¯d2⩽={x1,x3,x4,x5},rcδ⩾̲d2⩾={x2,x4,x6},rcδ⩾¯d2⩾={x1,x2,x3,x4,x6},rcδ⩾̲d3⩾={x2,x6},rcδ⩾¯d3⩾={x2,x6 } .

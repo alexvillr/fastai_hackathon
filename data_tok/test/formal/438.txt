@@ -1,0 +1,1 @@
+xxbos xxmaj since xxup z[x ] is obviously a subring of int(mnp(z),mn(z ) ) , we have : int(mnp(z),mn(z))(m)={f(m)|f∈int(mnp(z),mn(z))}=z[m ] .

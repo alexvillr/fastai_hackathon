@@ -1,0 +1,1 @@
+xxbos xxmaj the utility function is composed by a violation and a utilization term weighed by the factor 0≤α≤1 : ( 4)utility=∑x∈pviolation(x)+α⋅utilization(x ) .

@@ -1,0 +1,1 @@
+From aggregate size distributions, the coefficient of uniformity (Kézdi, 1974) was used to numerically illustrate the differences in distributions where large and small aggregates co-existed.

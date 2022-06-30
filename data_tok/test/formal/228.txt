@@ -1,0 +1,1 @@
+xxbos xxmaj in the case αn∉s0 we have m - e1¯=(t0tn)-1mn1,n2+κt , where xxup mn1,n2 is the generalized xxmaj koornwinder operator ( 5.12 ) with xxmaj n1 = n - mk , xxmaj n2 = m and the parameterss = t1,ξ = η1,a = t0u0q-1,b=-t0u0 - 1q-1,c = tnun , d=-tnun-1 satisfying the condition ℏ / η1 = k∈z≥2 .

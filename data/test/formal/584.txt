@@ -1,0 +1,1 @@
+By increasing the area fraction (coverage) of particles, the system appeared more regular, due to an enforced minimum separation distance (i.e. the particle diameter) and accordingly the Area Disorder would reduce.

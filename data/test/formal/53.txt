@@ -1,0 +1,1 @@
+Eq. (10) expresses the relationship between the air flux and the pressure gradient, which is assumed valid at any point in time.

@@ -1,1 +1,1 @@
-The city runs on tourism and the grape vines that surround the city and the region.
+The power curve for an 'ideal' wind farm was applied to the speed data at each site, estimating the potential output from a farm with perfect availability, perfect calibration, and no site-related performance loss (e.g. turbulence from surrounding geography or wake effects from other turbines).

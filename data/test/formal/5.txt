@@ -1,0 +1,1 @@
+If c′∈(H′:lI)∩Q• and d′∈(H″:lK)∩Q•, then d′c′IK⊂d′H′K⊂d′K⊂H″, i.e., d′c′∈(H″:lIK)∩Q•. □

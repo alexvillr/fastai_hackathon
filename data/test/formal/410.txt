@@ -1,0 +1,1 @@
+Regarding the third statement, by extendability every feasible execution of M on some interval I⊆R is the restriction of a feasible execution E of M on R.

@@ -1,1 +1,1 @@
-In a broader sense it is used in devices such as character development, since a character is defined by the interpretations of its actions and the rhetoric used to describe it.
+Recall that ϑ>1 and that d bounds the maximal end-to-end delay incurred between the time when a state transition condition is met and the time when the respective signal transition is observed at all receivers.

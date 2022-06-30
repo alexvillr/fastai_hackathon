@@ -1,1 +1,1 @@
-xxbos xxmaj the program is now more of a financial advice show , similar to xxmaj the xxmaj suze xxmaj orman xxmaj show .
+xxbos xxmaj for simplicity , we assume that the graph is connected , giving us xxmaj o(mlgn ) .
