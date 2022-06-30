@@ -19,13 +19,18 @@ from fastai.text.all import *
 from nltk import tokenize
 
 # %%
-model_pkl = "https://cloudstor.aarnet.edu.au/plus/s/rJzjZMk7ieZGsao/download"
-p = Path("./formality.pkl")
+# model_pkl = "https://cloudstor.aarnet.edu.au/plus/s/rJzjZMk7ieZGsao/download"
+# p = Path("./formality.pkl")
 
 # %%
-# if not p.exists():
-#     import urllib.request
-#     urllib.request.urlretrieve(model_pkl, "./formality.pkl")
+learner_pkl_url = "https://cloudstor.aarnet.edu.au/plus/s/lRDFdt5KmkhxFr6/download"
+
+p = Path("./learner.pkl")
+
+# %%
+if not p.exists():
+    import urllib.request
+    urllib.request.urlretrieve(learner_pkl_url, "./learner.pkl")
 
 # %%
 # m = load_pickle("./formality.pkl")
@@ -34,7 +39,7 @@ p = Path("./formality.pkl")
 formal_sentences = "The Gram matrix (or Gramian matrix, Gramian) of a set of vectors in an inner product space is the Hermitian matrix of inner products. C'man, man, don't leave holding the bag!"
 
 # %%
-m = load_learner("./data/learner.pkl")
+m = load_learner(p)
 
 # %%
 L(tokenize.sent_tokenize(formal_sentences)).map(lambda x: m.predict(x)[0])
@@ -64,3 +69,5 @@ demo = gr.Interface(formal_informal,
 # Next two examples are from https://www.plainlanguage.gov/examples/before-and-after/wordiness/
 # Next two examples are from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6044302/
 demo.launch()
+
+# %%
