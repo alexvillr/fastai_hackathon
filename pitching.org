@@ -1,0 +1,40 @@
+* UPI statement
+
+** User
+Anyone who does public speaking, whether in academia, industry, or government.
+Especially ESL speakers.
+
+** Problem
+How can I speak in a more engaging way? How can I make myself understood to my audience?
+
+** Impact
+- More engaging lectures, leading to better learning outcomes
+- More effective communication in the workplace, leading to greater efficiency
+- Better implementation of policies
+- Greater accessibility for ESL speakers
+
+* Empathy map
+University lecturer
+
+** Thinks
+“These ideas are really interesting!”
+“I want to explain this to my students!”
+
+** Sees
+Students are distracted or confused.
+
+** Feels
+Unease at not knowing whether students are following.
+Frustration at having to explain basic things repeatedly.
+
+** Does
+Tries to explain things in different ways, or using simpler language.
+
+** Value points
+Wants to be able to proceed with material to be covered.
+Wants students to let them know if they’re not following.
+Wants students to do well on assessments.
+Wants students to come away from course with a better understanding of the material.
+
+** Pain points
+Doesn’t want to have to go back over same (or earlier) material again.
